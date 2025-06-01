@@ -24,9 +24,6 @@ class QuizApp:
         self.options_frame = tk.Frame(self.main_frame)
         self.options_frame.pack()
         
-        self.check_vars = []
-        self.check_buttons = []
-        
         self.answer_buttons = []
         self.selected_buttons = []
 
