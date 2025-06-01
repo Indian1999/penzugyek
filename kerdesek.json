@@ -1,404 +1,2417 @@
 {
-    "kerdesek": [
-        {
-            "kerdes": "A 2023. évi átlagos infláció Magyarországon:",
-            "valaszlehetosegek": [
-                "17,6%",
-                "7,6%",
-                "27,6%",
-                "37,6%"
-            ],
-            "helyes_valasz": [0]
-        },
-        {
-            "kerdes": "Melyik állítás IGAZ az értékpapírok belső értékével kapcsolatban?",
-            "valaszlehetosegek": [
-                "Egy adott értékpapír belső értéke az adott értékpapír pénzáramainak jelenértékeinek összege.",
-                "Az értékpapír belső értéke mindig megegyezik a névértékkel.",
-                "Egy adott értékpapír belső értéke az adott értékpapír pénzáramainak jövőértékeinek összege.",
-                "Az értékpapírok belső értékét az értékpapír kibocsátó saját döntése határozza meg."
-            ],
-            "helyes_valasz": [0]
-        },
-        {
-            "kerdes": "10 év múlva kapunk 10 000 000 Ft-ot. Mennyi ennek az összegnek a jelenértéke 8%-os diszkontráta esetén?",
-            "valaszlehetosegek": [
-                "4631933",
-                "5872682",
-                "4724356",
-                "5426847"
-            ],
-            "helyes_valasz": [0]
-        },
-        {
-            "kerdes": "Melyik a nyugdíjpénztárak egyik típusa?",
-            "valaszlehetosegek": [
-                "DB alapok",
-            "Hitelalapok",
-            "Lakásalapok",
-            "Kockázati tőkealapok"
-            ],
-            "helyes_valasz": []
-        },
-        {
-            "kerdes": "Melyik nem a pénz funkciója?",
-            "valaszlehetosegek": [
-                "Aranyra válthatóság",
-            "Értékmérő",
-            "Forgalmi eszköz",
-            "Felhalmozási eszköz"
-            ],
-            "helyes_valasz": []
-        },
-        {
-            "kerdes": "A költségvetési deficitet azt jelenti, hogy",
-            "valaszlehetosegek": [
-            "A költségvetés összes kiadása meghaladja az összes bevételt",
-            "A költségvetés egyensúlyban van",
-            "A költségvetés többlettel zár",
-            "A költségvetés bevételei meghaladják a kiadásokat"
+  "kerdesek": [
+    {
+      "kerdes": "A 2023. évi átlagos infláció Magyarországon:",
+      "valaszlehetosegek": [
+        "17,6%",
+        "7,6%",
+        "27,6%",
+        "37,6%"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "Melyik állítás IGAZ az értékpapírok belső értékével kapcsolatban?",
+      "valaszlehetosegek": [
+        "Egy adott értékpapír belső értéke az adott értékpapír pénzáramainak jelenértékeinek összege.",
+        "Az értékpapír belső értéke mindig megegyezik a névértékkel.",
+        "Egy adott értékpapír belső értéke az adott értékpapír pénzáramainak jövőértékeinek összege.",
+        "Az értékpapírok belső értékét az értékpapír kibocsátó saját döntése határozza meg."
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "10 év múlva kapunk 10 000 000 Ft-ot. Mennyi ennek az összegnek a jelenértéke 8%-os diszkontráta esetén?",
+      "valaszlehetosegek": [
+        "4631933",
+        "5872682",
+        "4724356",
+        "5426847"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "Melyik a nyugdíjpénztárak egyik típusa?",
+      "valaszlehetosegek": [
+        "DB alapok",
+        "Hitelalapok",
+        "Lakásalapok",
+        "Kockázati tőkealapok"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Melyik nem a pénz funkciója?",
+      "valaszlehetosegek": [
+        "Aranyra válthatóság",
+        "Értékmérő",
+        "Forgalmi eszköz",
+        "Felhalmozási eszköz"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "A költségvetési deficitet azt jelenti, hogy",
+      "valaszlehetosegek": [
+        "A költségvetés összes kiadása meghaladja az összes bevételt",
+        "A költségvetés egyensúlyban van",
+        "A költségvetés többlettel zár",
+        "A költségvetés bevételei meghaladják a kiadásokat"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "Mi nem okoz inflációt?",
+      "valaszlehetosegek": [
+        "Adócsökkentés",
+        "Költségnövekedés",
+        "Keresletnövekedés",
+        "Pénzkínálat növekedése"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "A kereskedelmi bankok által kibocsátott kötvényeket a banki mérleg forrás oldalán találjuk.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "A KELER elszámolási rendszeréhez nem kapcsolódik:",
+      "valaszlehetosegek": [
+        "SEPA",
+        "VIBER",
+        "TARGET2",
+        "Clearstream"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "A nyugdíjbiztosítási rendszerek finanszírozása 3 féle elvet követhet:",
+      "valaszlehetosegek": [
+        "Felosztó-kirovó, tőkefedezeti, várományfedezeti",
+        "Költségvetési, piaci, vegyes",
+        "Állami, magán, önkéntes",
+        "Befektetési, megtakarítási, biztosítási"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "Melyik nem költségvetési bevétel?",
+      "valaszlehetosegek": [
+        "Transzferek",
+        "Adók",
+        "Járulékok",
+        "Illetékek"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "A … típusú befektetési alap nem fogad be új befektetéseket, és bárki megveheti.",
+      "valaszlehetosegek": [
+        "Nyilvános, zárt végű",
+        "Zártkörű, nyílt végű",
+        "Nyilvános, nyílt végű",
+        "Zártkörű, zárt végű"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "Miről született megállapodás 1944-ben a Bretton Woodsban tartott konferencián?",
+      "valaszlehetosegek": [
+        "A gazdasági nagyhatalmak nemzeti valutáinak árfolyamát a dollárhoz rögzítették",
+        "Az aranyalapú pénzrendszer megszüntetéséről",
+        "Az Európai Unió megalapításáról",
+        "A Világbank és az IMF létrehozásáról"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "A kereskedelmi bankok más kereskedelmi bankoknak nyújtott hitelei a banki mérleg eszköz oldalán találhatók.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "Milyen más néven ismert a Bretton Woods-i pénzrendszer?",
+      "valaszlehetosegek": [
+        "Dollárstandard rendszer",
+        "Aranyfedezeti rendszer",
+        "Lebegő árfolyamrendszer",
+        "Eurostandard rendszer"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "Melyik képlet fejezi ki a pénzmennyiséget a gazdaságban?",
+      "valaszlehetosegek": [
+        "MV = PT",
+        "GDP = C + I + G + NX",
+        "Y = C + I + G",
+        "M = P x T"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "A transzmissziós mechanizmus az a folyamat, amelynek segítségével a központi bank intézkedéseinek hatása a gazdaságba és végső soron az árakba átgűrűzik.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "A költségvetési pénzforgalmi egyenlegének számításakor nem veszik figyelembe a privatizációs bevételeket.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "A pénz forgalmi eszköz funkciója arra utal, hogy az áruk forgalmában a tranzakciók a pénz segítségével és nem árucsere formájában bonyolódnak.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "A költségvetési deficit nem befolyásolja az államadósság nagyságát.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "Az aranystandard idejében jelent meg a bitcoin.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "A reálfolyamatok a termelést szolgáló erőforrások és szükségletkielégítést közvetlenül szolgáló javak és szolgáltatások áramlása.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "Amennyiben a pénz árumozgáshoz kötődik, akkor forgalmi eszköz:",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "Válassza ki a helyes állítást (állításokat)!",
+      "valaszlehetosegek": [
+        "A fogyasztói árindex a bázisidőszaki, és a tárgyidőszaki fogyasztást súlyozva veszi figyelembe.",
+        "A fogyasztói árindex a bázisidőszaki fogyasztási szerkezetet tükrözi.",
+        "A fogyasztói árindex a vizsgált időszak időszaki fogyasztási szerkezetét tükrözi.",
+        "A fogyasztói árindex a bázisidőszaki fogyasztást a tárgyidőszakra vonatkozó jelentősebb változásokkal korrigálva veszi figyelembe."
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "A gazdaságtörténet eddig leghosszabban és legelterjedtebben használt pénze a(z):",
+      "valaszlehetosegek": [
+        "arany",
+        "ezüst",
+        "kaori kagyló",
+        "só"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "Válassza ki a helyes megállapítást!",
+      "valaszlehetosegek": [
+        "Az SDR az elszámolás alapegysége az IMF-ben.",
+        "A Világbank forrásait részvény kibocsátással teremti meg.",
+        "A Bretton Woods-i rendszer 1981-ben bomlott fel.",
+        "A korai globalizáció pénzügyi rendszerére a liberalizáció a jellemző."
+      ],
+      "helyes_valasz": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "kerdes": "Ha ma rendelkezem 1 400 000 Ft-tal, mennyi lesz ennek az értéke 7 év múlva 10,8%-os piaci kamatláb mellett, ha a kamatokat nem tőkésítjük?",
+      "valaszlehetosegek": [
+        "2458400",
+        "3113200",
+        "1987400",
+        "2768000"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "Melyek a közvetlen finanszírozás szereplői?",
+      "valaszlehetosegek": [
+        "önkormányzatok",
+        "befektetési bankok",
+        "vállalatok",
+        "spekulánsok"
+      ],
+      "helyes_valasz": [
+        1,
+        2
+      ]
+    },
+    {
+      "kerdes": "CETOP a BÉT közepes és kis kapitalizációjú részvényindexe.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "A részvények esetében osztalékfizetésre mindig sor kerül.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "A növekedési hitelprogram a monetáris politika részeként a devizapiac stabilizálására szolgált.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "A Bretton Woods-i rendszerben csak az USD-nek volt aranyparitása.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "2001-től az inflációs célkövető rendszer célja az 1% fogyasztói árindex.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "Mely állítások IGAZAK az értékpapír jövedelmekkel kapcsolatban?",
+      "valaszlehetosegek": [
+        "A diverzifikáció befolyásolja a befektetési portfólió jövedelmezőségét.",
+        "Az értékpapír jövedelmek esetében felmerülhet adó- és járulékfizetési kötelezettség.",
+        "Az értékpapírok esetében a pozitív hozam garantált.",
+        "A kötvények hozama kizárólag a kamatnyereség."
+      ],
+      "helyes_valasz": [
+        0,
+        1
+      ]
+    },
+    {
+      "kerdes": "Válassza ki a helyes megállapítást az euróval, EKB-val kapcsolatban!",
+      "valaszlehetosegek": [
+        "Az euró számlapénzként 1995-ben lett bevezetve.",
+        "Az euró készpénzként 2002-ben jelent meg.",
+        "Az EKB székhelye Brüsszel.",
+        "Az EKB fő feladata az euró árfolyampolitikájának kialakítása."
+      ],
+      "helyes_valasz": [
+        1,
+        3
+      ]
+    },
+    {
+      "kerdes": "Mekkora árfolyam mellett kerül kibocsátásra egy 13 éves futamidejű kötvény 7,4% hozam mellett, 10 000 Ft névértékkel?",
+      "valaszlehetosegek": [
+        "3790",
+        "5590",
+        "4200",
+        "3990"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "Mit jelent az árstabilitás?",
+      "valaszlehetosegek": [
+        "Az árszínvonal ingadozása",
+        "Az infláció 0%-os szintje",
+        "Az infláció 3%-os toleranciasávban tartása",
+        "Az árszínvonal csökkenése"
+      ],
+      "helyes_valasz": [
+        2
+      ]
+    },
+    {
+      "kerdes": "Nem tartozik a piacgazdasági tökéletlenségek közé:",
+      "valaszlehetosegek": [
+        "Jövedelmi egyenlőtlenség",
+        "Újratermelési ciklus",
+        "Piaci egyensúly",
+        "Monopóliumok"
+      ],
+      "helyes_valasz": [
+        2
+      ]
+    },
+    {
+      "kerdes": "Hozam szerint milyen típusú értékpapír nem létezik?",
+      "valaszlehetosegek": [
+        "Lejárat nélküli",
+        "Változó",
+        "Kamatozó részvény",
+        "Konstans"
+      ],
+      "helyes_valasz": [
+        2
+      ]
+    },
+    {
+      "kerdes": "Mennyi az annuitásfaktor, ha 21 évig évi 30 000 Ft-ot hoz a befektetés, 44% hozammal?",
+      "valaszlehetosegek": [
+        "2.5487",
+        "2.8732",
+        "2.49",
+        "3.0194"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "Mely állítások igazak az alapok új befektetők befogadása szerinti típusaira?",
+      "valaszlehetosegek": [
+        "A nyilvános befektetési jegyeket bárki megvásárolhatja.",
+        "A zárt végű alapok határozott futamidejűek, és csak lejáratkor fizetnek vissza.",
+        "A zártkörű befektetési jegyeket bárki szabadon megvásárolhatja a tőzsdén."
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "Milyen eszközök szerepelnek a jegybank monetáris politikai eszköztárában?",
+      "valaszlehetosegek": [
+        "Devizaswap",
+        "Értékpapírcsere",
+        "Fiskális kötvények",
+        "Kamatswap"
+      ],
+      "helyes_valasz": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "kerdes": "A kereskedelmi bankok mérlegének forrásoldalán találhatók a vállalati ügyfeleknek nyújtott hitelek.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "A fogyasztói árindex (CPI) számítása során…",
+      "valaszlehetosegek": [
+        "a reprezentánsokat 12 főcsoportba sorolják",
+        "3000 reprezentáns árát figyelik",
+        "2000 reprezentáns árát figyelik",
+        "1000 reprezentáns árát figyelik"
+      ],
+      "helyes_valasz": [
+        0,
+        1
+      ]
+    },
+    {
+      "kerdes": "1. A nyilvános befektetési alapok mindig nyílt végűek.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "2. Az M1 csak a jegybankpénzt tartalmazza.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "3. Az M1 a jegybankpénzt és a bankok látra szóló betétjeit tartalmazza.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "4. A menüköltség az eladói infláció miatti többletköltségeit jelenti.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "5. Az opció jogosultja szabadon dönt arról, hogy él-e az opcióban foglalt lehetőséggel.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "6. A pénzügyi instrumentumok reáljavakra szóló követelések.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "7. A fix kamatozású kötvény esetében a kamatozás a futamidő végéig rögzített.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "8. A pénzt megjelenési formájával (pl. arany, papír) definiáljuk.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "9. A nemzeti tartalékok a jegybank forrásai közé tartoznak.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "10. Befektetési alapok működését a befektetők politikája határozza meg.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "11. A kamatfolyosó a kereskedelmi banki és a jegybanki kamatok közötti különbséget jelenti.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "12. A KELER, mint központi szerződő fél, úgy az eladó, mint a vevő felé garantálja a tőzsdei ügyletek teljesítését.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "13. A költségvetési deficit mindig negatív, míg a többlet mindig kedvező gazdasági fejlemény.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "14. Magyarország az Európai Monetáris Unió tagállama.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "15. A vásárlóerő az egységnyi pénzért vehető áruk mennyisége.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "16. Az adóteher az adóalap egységre jutó adó.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "17. A központi bank kezeli az ország devizatartalékait.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "18. Magyarország folyó fizetésimérlege a 2010-es években jellemzően aktívumot mutat.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "19. Az életbiztosítások mindig a biztosított halálakor fizetnek.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "20. A nyugdíjrendszerek két nagy csoportját a felosztó-kirovó és a tőkefedezeti elven működő rendszerek jelentik.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "21. A befektetési alapok csak konkrét befektetési eszközbe fektethetnek be, más eszközökbe nem.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "22. A befektetési jegyeket nem vásárolhatják meg kis megtakarítók.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "23. Közhatalmi funkcióban az állam működteti az igazságszolgáltatást.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "24. A hitelezéssel a kereskedelmi bankok pénzt teremtenek.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "25. A bankközi klíringrendszer a nagy tömegű, de kis egyedi értékű átutalások elszámolására szolgál.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "26. Az arany valutaként is használható.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "27. Az aranydeviza sztenderdben a devizák korlátozás nélkül aranyra válthatók.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "28. A vásárlóerő a GDP összegének megfelelő árumennyisége.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "29. Az MNB inflációs célja a 3% +/- 1%-os tolerancia sávval.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "30. A Monetáris Tanács pénzügypolitikája Magyarországon az MNB feladata.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "31. A Bretton Woods-i pénzügyi rendszer a Nagy Gazdasági Válságra adott válaszként született.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "32. A zártvégű befektetési alapok lehetnek akár nyílt, akár zárt végűek.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "33. Az MNB elsődleges piacon árverést fizetendő pénzmennyiségért.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "34. A háztartások rendelkezésére álló jövedelem a bruttó reálbérnövekedés működése következménye.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "35. Az arany standard rendszer fizetőeszközök aranytartalmának aránya.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "36. Egy ország folyó fizetési mérlege az adott nemzetgazdaság külfölddel lebonyolított műveletek összességét tartalmazza.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "37. Belső érték nélküli pénzről akkor beszélünk, ha a kormányok elnálják a pénz értékét.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "38. A KELER a tőzsdei elszámolások mellett az OTC ügyletek elszámolását is végzi.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "39. A gazdaságban lévő készpénzállomány a központi bank passzívája.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "40. Az adóterhet az SZJA legmagasabb kulcsa határozza meg.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "41. Az árszínvonal az egységnyi árufért fizetendő pénzmennyiség.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "42. Az ÁFA a közvetlen adók közé tartozik.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "43. Az aranyparitás az egyes törvényes fizetőeszközök aranytartalmának aránya.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "44. A kereskedelmi bankok forrásait köti a legnagyobb arányt a hitelek teszik ki.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "45. A költségvetési egyenlegek a naptári évet követik.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "46. Az indirekt esetében a költségvetési hiány együtt jár a folyó fizetési mérleg deficitjével.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "47. A közjavak fogyasztásából senkit nem lehet kizárni.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "48. A devizák eladási árfolyama magasabb a vételi árfolyamnál.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "49. A kereskedelmi bankoknak arányaiban jellemzően kevesebb a tőkéje, mint a termelő vállalatoknak.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "50. A pénzügyi befektetők mindig kockázatkerülők.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "51. A fogyasztói árindex súlyozása bázisidőszaki.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "52. A gazdaságban lévő pénz mennyisége függ a pénz forgási sebességétől.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "53. A pénzügyi információk is a pénzügyi rendszer elemei.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "54. A valós idejű bruttó elszámolási rendszer elszámolási ideje és az elszámolás mozzanata eltérő elvégzést mutat.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "55. A forgalomban lévő pénz mennyiségét a jegybank és a kereskedelmi bankok összevont mérlege mutatja.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "56. A költségvetésből bármire lehet költeni, amire nem tilos.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "57. A tőzsdei elszámolásforgalmat, a tőzsdével kötött megállapodás alapján a SWIFT rendszer végzi.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "58. A zárt végű befektetési alapok mindig kockázatkerülők.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "59. Az IMF-et és a Világbankot a Bretton Woods-i pénzügyi rendszer részeként hozták létre.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "60. Az indexkövető befektetési alapok a fogyasztói árindex mértékével megegyező hozamot ígérnek.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "61. Az aranystandard rendszerben csak korlátozottan lehet önálló monetáris politikát folytatni.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "62. A flow változók mindig a gazdaság egy adott pillanatban jellemző állapotát mutatják ki.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "63. A hitelpénz rendszerben a pénznek nincs saját, belső értéke.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "64. A kereskedelmi bankban csak nonprofit vállalkozásként lehet működni.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "65. A gazdasági növekedés általában több termelékenységet, mert olcsóbban jutnak hozzá az erőforrásokhoz.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "66. Az aranypénzrendszerben csak annyi bankjegyet lehet forgalomban, amennyi az aranytartalékok alapján kibocsátható.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "67. A befektetési alapok eszközei között a legnagyobb arányt a betétek képviselik.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "68. A jegybanki függetlenség azt jelenti, hogy a jegybank senkinek nem tartozik elszámolással a tevékenységéről.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "69. Az értékpapíroknak mindig van lejárata.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "70. Az infláció és a defláció egyidejűleg is jelen lehet a gazdaságban.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "71. Az állami szabályozás kizárólagos célja, hogy a piacok minél hatékonyabban tudjanak működni.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "72. A zéró kupon kötvényt névérték alatt lehet megvásárolni.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "73. Az IMF a világbank keretein belül működik.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "74. Az Európai Valutaegység (ECU) számlapénzként és készpénzként is létezett.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "75. A jegybankban őrzött bankjegyek nem részei a jegybankpénznek.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "76. A jegybanki alapkamat a jegybank irányadó eszközére fizetett kamat.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "77. Az Európai Bankunió az Európai Unió megalakulásával egyidőben kezdte meg működését.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "78. A folyó fizetési mérleg és a nemzetközi fizetési mérleg ugyanazt jelenti, szinonimák.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "79. Az Európai Központi Bank székhelye Brüsszelben van.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "80. A gazdaságban lévő pénz mennyisége függ a gazdaságban megtermelt jövedelem nagyságától.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "81. A jegybanki alapkamat az a kamat, amin a jegybank egynapos likviditást hitelt nyújt a kereskedelmi bankoknak.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "82. Minél tőkeerősebb a bank, annál kisebb az esélye annak, hogy insolvenssé válik.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "83. A pénzügyi vagyoni eszköz a reálvagyon is stock kategóriák.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "84. A call opció eladási jogot testesít meg.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "85. Minden nyugdíjrendszerben van egyéni számlája a rendszer résztvevőinek.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "86. Az értékpapír elszámolások esetén az értékpapírok mozgását a pénzmozgásoknak mindig meg kell előznie.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "87. A jegybank függetlensége megfelelő működéséhez elengedhetetlenül szükséges, hogy a jegybank átláthatóan és elszámoltathatóan működjön.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        0
+      ]
+    },
+    {
+      "kerdes": "88. Magyarország 2010-ben belépett az ERM II rendszerbe.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "89. Euro bankjegyekkel és érmékkel 2002 óta nem lehet fizetni.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "90. A pénzügyi rendszerben minden kiszámítható, pontosan előre jelezhető.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "91. A világ legnagyobb tőzsdéi Oroszországban vannak.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "92. A tőkepiac a tőzsde szinonimája.",
+      "valaszlehetosegek": [
+        "Igaz",
+        "Hamis"
+      ],
+      "helyes_valasz": [
+        1
+      ]
+    },
+    {
+      "kerdes": "A nemzetközi fizetési mérlegben:",
+      "valaszlehetosegek": [
+        "Az áruexport és a tőkeimport passzív tételek",
+        "Az áruexport és a tőkeimport aktív tételek",
+        "Az áruexport és a tőkeexport is passzív tételek",
+        "Az áruexport és a tőkeexport is aktív tételek"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Melyik állítás igaz az alábbiak közül?",
+      "valaszlehetosegek": [
+        "A fogyasztói árindexet Magyarországon az MNB havonta méri",
+        "A fogyasztói árindexet Magyarországon a KSH évente méri",
+        "A fogyasztói árindexet Magyarországon az MNB évente méri",
+        "A fogyasztói árindexet Magyarországon a KSH havonta méri"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Az alábbiak közül melyik NEM része az államháztartásnak?",
+      "valaszlehetosegek": [
+        "Nyugdíjalap",
+        "Önkéntes nyugdíjpénztár vagyon",
+        "Központi költségvetés",
+        "Önkormányzat"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Az alábbiak közül melyik állítás igaz a központi bankokra?",
+      "valaszlehetosegek": [
+        "A központi bank irányítja a KSH-t",
+        "A központi bank hitelezi a lakosságot",
+        "A központi bank vezeti a kereskedelmi bankok számláját",
+        "A központi bank nem vesz részt az állampapírok piacán"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Az alábbiak közül melyik stock kategória?",
+      "valaszlehetosegek": [
+        "Árbevétel",
+        "Fogyasztás",
+        "Termelés",
+        "Államadósság"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Az alábbiak közül melyik flow kategória?",
+      "valaszlehetosegek": [
+        "GDP",
+        "Inflációs ráta",
+        "Árfolyam",
+        "Készpénzállomány"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Az alábbiak közül melyik NEM jellemzi a deflációt?",
+      "valaszlehetosegek": [
+        "Alacsony árak",
+        "Vásárlóerő növekedése",
+        "Az alacsonyabb árszínvonal miatt a lakosság fogyasztása nő, mert többet tudnak megvenni az olcsóbb termékekből",
+        "Árcsökkenés"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Az árstabilitás jelentése:",
+      "valaszlehetosegek": [
+        "Árak ingadozása",
+        "Alacsony pozitív, de nem nulla százalékos infláció",
+        "Árrobbanás",
+        "Defláció"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "A nemzetközi fizetési mérlegben:",
+      "valaszlehetosegek": [
+        "A tőkeimport aktív tétel",
+        "Az áruexport passzív tétel",
+        "Az áruexport és a tőkeimport aktív tételek",
+        "Az áruexport mindig deficitképző"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "A bank által végrehajtott lejárati transzformáció azt jelenti, hogy:",
+      "valaszlehetosegek": [
+        "Csak hosszú távú hiteleket nyújt",
+        "A bank kizárólag lekötött betétet fogad el",
+        "A bank a betéteket át tudja alakítani olyan hitelekké, amiknek a lejárata pontosan megegyezik a betétek lejáratával",
+        "Nem végez transzformációt"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "A befektetési egységhez kötött életbiztosítás:",
+      "valaszlehetosegek": [
+        "Egy biztosító és egy bank közös terméke",
+        "Csak életjáradékkal köthető",
+        "Egy életbiztosítás és egy – a biztosított által szabadon kiválasztott – tetszőleges befektetési eszköz kombinációja",
+        "Nem tartalmaz megtakarítási elemet"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Az alábbiak közül melyik a pénzügyi rendszer alrendszere?",
+      "valaszlehetosegek": [
+        "Földhivatal",
+        "NAV",
+        "Statisztikai hivatal",
+        "Pénzügyi piac"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Melyik állítás igaz a jegybanki függetlenségre az alábbiak közül?",
+      "valaszlehetosegek": [
+        "A jegybankot a kormány irányítja",
+        "A kormány inflációs törekvéseinek ellenállóvága miatt van rá szükség",
+        "A kormány dönti el a kamatpolitikát",
+        "A pénzügyminiszter határozza meg a monetáris célokat"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Az úgynevezett DC típusú nyugdíjrendszerekben:",
+      "valaszlehetosegek": [
+        "Csak az állam fizet járulékot",
+        "A nyugdíj mértéke van előre meghatározva, a nyugdíjpénztári befektetések hozamának kockázatát a szolgáltató viseli",
+        "A munkáltató fizet be mindent",
+        "Csak fix összeget lehet befizetni"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Melyik állítás igaz az alábbiak közül?",
+      "valaszlehetosegek": [
+        "Az inflációt a NAV havonta méri",
+        "A fogyasztói árindexet Magyarországon a KSH havonta méri",
+        "Az inflációt csak éves szinten mérik",
+        "Az infláció mérését az MNB végzi"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Az alábbi állítások közül melyik igaz az alábbi összefüggésre: a szolvencia és a likviditás fenntarthatósága szempontjából?",
+      "valaszlehetosegek": [
+        "Nincs kapcsolat köztük",
+        "A szolvencia a napi működés",
+        "A likviditás rövid távú fizetőképesség, a szolvencia hosszú távú",
+        "A kettő ugyanaz"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "A gazdaságtörténetben a leghosszabb ideig használt pénz a következők közül:",
+      "valaszlehetosegek": [
+        "Só",
+        "Kaori kagyló",
+        "Teve",
+        "Kakaóbab"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Az alábbiak közül melyik NEM az árstabilitás előnye?",
+      "valaszlehetosegek": [
+        "Biztosítja a kiszámítható, de pozitív reálkamatot a befektetők számára",
+        "Az inflációt a lakosság nem érzékeli",
+        "Növeli a gazdasági szereplők kiszámíthatóságát",
+        "Segít a reáljövedelmek megőrzésében"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Az alábbi állítások közül melyik igaz?",
+      "valaszlehetosegek": [
+        "Az üzleti biztosítók a közvetlen finanszírozás szereplői",
+        "Az üzleti biztosítók csak gépjárművel foglalkoznak",
+        "Minden biztosító csak nonprofit lehet",
+        "Az üzleti biztosítás kizárólag életbiztosításra vonatkozik"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Mi a különbség a spekulánsok és az arbitrazőrök között?",
+      "valaszlehetosegek": [
+        "Egyik sem kockáztat",
+        "Csak állampapírral dolgoznak",
+        "A spekuláns egy adott piac áringadozásának kihasználásából igyekszik hasznot húzni, míg az arbitrazőr az árkülönbség piacon belüli és piacon kívüli kihasználására törekszik",
+        "Mindkettő tiltott pénzügyi szereplő"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "A TARGET2-ről melyik állítás igaz?",
+      "valaszlehetosegek": [
+        "Minden ország saját elszámolórendszere",
+        "Csak belföldi utalásokat kezel",
+        "Egy valós idejű bruttó elszámolási rendszer az EU-n belüli fizetésekre",
+        "A devizaügyleteket kezeli"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Az alábbiak közül melyik flow adat?",
+      "valaszlehetosegek": [
+        "Jegybanki alapkamat",
+        "Készpénzállomány",
+        "Államadósság",
+        "Általános forgalmi adó bevételének növekedése"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Az alábbiak közül melyik NEM pénzügyi instrumentum?",
+      "valaszlehetosegek": [
+        "Pénzkiadó automata",
+        "Kötvény",
+        "Részvény",
+        "Hitel"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "A következők közül melyik NEM a pénzügyi rendszer funkciója?",
+      "valaszlehetosegek": [
+        "Monetáris politika működése",
+        "A gazdasági szereplők készletgazdálkodásának optimalizálása",
+        "A beruházók finanszírozási igényeinek kielégítése",
+        "A gazdasági pénzellátásának biztosítása"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "A tényleges infláció és a háztartások által érzékelt infláció vonatkozásában melyik állítás igaz?",
+      "valaszlehetosegek": [
+        "A tartós fogyasztási cikkek árváltozását erősebben érzékeljük a ténylegesnél",
+        "Az inflációt minden háztartás egyformán érzékeli",
+        "A gyakran vásárolt termékek árváltozásai, ha árváltozások gyakori, kismértékű változásokban nyilvánulnak meg, kevésbé érzékeljük a ténylegesnél",
+        "Az érzékelt infláció gyakran hosszabb távra vonatkozik, nem csak az adott év inflációját veszi figyelembe"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "A bankok tőkéjére melyik állítás igaz az alábbiak közül:",
+      "valaszlehetosegek": [
+        "Alapvetően a bank szolvenciájának fenntartásához van szükség",
+        "Alapvetően a bank likviditásának fenntartása miatt van rá szükség",
+        "Egyaránt fontos a szolvencia és a likviditás fenntartása szempontjából",
+        "Minél nagyobb a bank tőkéje, annál jövedelmezőbben tud a bank gazdálkodni"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "A monetáris politika legfontosabb kommunikációs csatornája:",
+      "valaszlehetosegek": [
+        "A jegybank elnöke által rendszeresen tartott sajtótájékoztatók",
+        "A jegybank mérlegeinek rendszeres közzététele",
+        "A jegybank makrogazdasági előrejelzéseit tartalmazó jelentése",
+        "A Monetáris Tanács üléseiről nyilvánosságra hozott jegyzőkönyvek"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "A folyó fizetési mérleg egyenlege azt mutatja, hogy:",
+      "valaszlehetosegek": [
+        "Mekkora az országba beáramló és az onnan kiáramló külföldi fizetőeszközök különbsége",
+        "Mekkora az ország költségvetési bevételeinek és a kiadásainak különbsége",
+        "Mekkora az országba külföldre irányuló exportjának és a külföldről származó importjának a különbsége",
+        "Mekkora a valutatartalékok változása"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "A Bretton Woods-i rendszerre melyik állítás NEM igaz az alábbiak közül?",
+      "valaszlehetosegek": [
+        "A dollártól különböző valuták árát a dollárhoz kötötten rögzítették",
+        "Újra életbe lépett az aranystandard rendszer a II. világháború győztes országaiban",
+        "Csak az amerikai dollárnak állapított meg aranyparitást",
+        "Az USA vállalta a dollár átváltását és a dollárhoz aranyra váltást a külföldi központi bankok felé"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Melyik állítás NEM igaz az ERM II rendszerre az alábbiak közül?",
+      "valaszlehetosegek": [
+        "Az ERM II rendszerben az árfolyamokat szabadon lehet engedni az euró, mint árfolyamrögzítési közép körül",
+        "A rendszer célja az árfolyamok ingadozása az euróhoz kötött árfolyamrendszerben",
+        "Az euró bevezetése tagja a rendszernek",
+        "A rendszerben való részvétel feltétele az ERM II rendszerben eltöltött 2 év"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "A következők közül melyik NEM tartozik pénzáramlások főbb típusai közé?",
+      "valaszlehetosegek": [
+        "Saját bankszámláról készpénz felvétele, ATM-ből vagy bankfiókban",
+        "Önkéntes, ellenszolgáltatások nélküli pénzáramlások, pl. adományok fizetése",
+        "Piaci tranzakciók pl. megvásárolt áruk árának kifizetése",
+        "Az adófizetés"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Amikor az arany és az ezüst egyaránt pénzként funkcionál:",
+      "valaszlehetosegek": [
+        "Mindig az arany szorítja ki az ezüstöt a forgalomból",
+        "Jól működnek egymás mellett, egyik sem szorítja ki a másikat a forgalomból",
+        "Az 1% pénz kiszorítja a jó forgalomból",
+        "A rossz pénz kiszorítja a jót a forgalomból"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "A FINTECH cégek innovatív pénzforgalmi szolgáltatásaira melyik állítás igaz?",
+      "valaszlehetosegek": [
+        "Az EU-ban a bankoknak 2018-tól hozzáférhetővé kell tenniük az átutalási és számlavezetési rendszereiket a FINTECH cégek számára",
+        "Az EU-ban 2015 óta már a bankoknak hozzáférhetővé kell tenniük az átutalási és számlavezetési rendszereket a FINTECH cégek számára",
+        "A FINTECH cégek nem tartoznak az EU által elismert pénzforgalmi szolgáltatók közé, így csak saját rendszereiket használják, nem férnek hozzá a banki rendszerekhez",
+        "A FINTECH cégek nem tartoznak az EU által elismert pénzforgalmi szolgáltatók közé, így nem működhetnek legálisan az Unióban"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Az alábbiak közül melyik NEM része az Európai Bankunionak?",
+      "valaszlehetosegek": [
+        "Egységes Szanálási Könyv",
+        "Egységes bankfelügyeleti rendszer",
+        "Egységes banki fogyasztóvédelmi rendszer",
+        "Egységes bankszanálási rendszer"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Az adónemek lehetnek:",
+      "valaszlehetosegek": [
+        "Vásárláshoz kapcsolódók, eladáshoz kapcsolódók, készleten tartáshoz kapcsolódók",
+        "Jövedelmekhez kapcsolódók, a jövedelem felhasználásához kapcsolódók, vagyonhoz kapcsolódók",
+        "Munkához kapcsolódók, tőkéhez kapcsolódók, földalapú jövedelemhez kapcsolódók",
+        "Magánszemély fogyasztásához kapcsolódók, vállalati fogyasztásához vagy állami fogyasztáshoz kapcsolódók"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Az árstabilitás jelentése:",
+      "valaszlehetosegek": [
+        "Nulla százalékos infláció",
+        "A mínusz 5% – plusz 5% százalékos sávon belüli maradó infláció",
+        "Alacsony negatív, de kiszámítható infláció",
+        "Alacsony pozitív, de nem nulla százalékos infláció"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Az inflációs célkövetés rendszerében a monetáris politika végső célja:",
+      "valaszlehetosegek": [
+        "Az árstabilitás elérése",
+        "Az inflációnak a jegybanki alapkamat szintjére történő leszorítása",
+        "Az infláció és az árszintek kiegyenlítése növelése",
+        "A gazdasági növekedés támogatása"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Melyik igaz az alábbiak közül az állam allokációs funkciójára?",
+      "valaszlehetosegek": [
+        "Az állam, bizonyos szabályok mentén magára vállalja a nyugdíjak fizetését",
+        "Az állam a jövedelmeket a gazdagabbaktól a szegényebbek felé csoportosítja át",
+        "Az állam magára vállalja az elmaradottabb régiók gazdasági felzárkóztatását",
+        "Az állam magára vállalja azoknak a javaknak a biztosítását, amelyeket a piac nem biztosít"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "A kereskedelmi bankok hogyan teremthetnek pénzt?",
+      "valaszlehetosegek": [
+        "Betét befogadásával",
+        "Hitelnyújtással",
+        "Sehogyan",
+        "Hitel felvételével a jegybanktól"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Az M × V = Y × P egyenleg:",
+      "valaszlehetosegek": [
+        "Egy olyan összefüggés, ami gazdasági válságok esetén megszűnik igaz lenni",
+        "Egy olyan összefüggés, ami csak bizonyos feltételek teljesülése esetén igaz",
+        "Egy olyan összefüggés, ami soha nem teljesül",
+        "Egy azonosság, ami mindig fennáll"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "A Budapesti Értéktőzsdén a következő típusú piacok működnek:",
+      "valaszlehetosegek": [
+        "Azonnali piac, értékpapír piac, származékos piac, külföldi részvénypiac, árupiac, aranypiac",
+        "Azonnali piac, értékpapír piac, származékos piac, belföldi részvénypiac",
+        "Azonnali piac, értékpapír piac, származékos piac, külföldi részvénypiac, árupiac",
+        "Azonnali piac, értékpapír piac, származékos piac, árú piac"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Az OTC piacokra melyik állítás igaz az alábbiak közül?",
+      "valaszlehetosegek": [
+        "Az OTC piacot a jegybank vezeti",
+        "Az OTC piac a legszabályozottabb piac",
+        "Az OTC piacokon csak tőzsdei papírokkal lehet kereskedni",
+        "Az OTC piacokon egyedi feltételekkel lehet kereskedni"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Melyik követelmény NEM része a Maastrichti kritériumoknak az alábbiak közül?",
+      "valaszlehetosegek": [
+        "Külkereskedelmi mérleg hiánya nem haladhatja meg a GDP 6%-át",
+        "Az éves költségvetési hiány nem haladhatja meg a GDP 3%-át",
+        "Az infláció legfeljebb 1,5 százalékponttal haladhatja meg a három legalacsonyabb inflációval rendelkező tagállam átlagát",
+        "Az árfolyamnak két éven át meg kell őriznie a stabilitást"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "A biztosítók közül kik az alábbiak közül?",
+      "valaszlehetosegek": [
+        "Mindenki lehet intézményi befektető",
+        "Csak az életbiztosítók intézményi befektetők",
+        "Csak nem biztosítói intézmények befektetők",
+        "A biztosítók nem lehetnek intézményi befektetők, ha bank tulajdonában vannak"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "A mai pénzrendszer:",
+      "valaszlehetosegek": [
+        "aranypénz rendszer",
+        "jegybankpénzrendszer",
+        "hitelpénzrendszer",
+        "virtuális pénzrendszer"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Ma a világon a legelterjedtebb monetáris politika rendszere:",
+      "valaszlehetosegek": [
+        "az árfolyam célkövetés rendszere",
+        "a hitelmennyiség közvetlen szabályozásának rendszere",
+        "az inflációs célkövetés rendszere",
+        "nincs egy, megnevezhető legelterjedtebb rendszer"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Mi a nominális horgony az inflációs célkövetés rendszerében?",
+      "valaszlehetosegek": [
+        "a GDP növekedési üteme",
+        "az adott évi inflációs ráta",
+        "a nyilvánosan bejelentett számszerű inflációs cél",
+        "a jegybanki alapkamat"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Az alábbiak közül melyik tartozik az állami redisztribúciós funkciói közé?",
+      "valaszlehetosegek": [
+        "Munkanélküli segélyek fizetése",
+        "Munkavédelmi szabályok megállapítása",
+        "Munkahelyteremtési támogatások folyósítása",
+        "Minimálbér megállapítása"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Melyik állítás igaz az alábbiak közül?",
+      "valaszlehetosegek": [
+        "Donald Trump felvetette, hogy meg kellene szüntetni az amerikai dollár aranyra való átválthatóságát, de a Szenátus még nem jutott egyetértésre a kérdésben",
+        "A dollár az 1929–1933-as válságot követően, a New Deal bevezetésétől kezdve már senkinek és semmi számára nem volt átváltható aranyra",
+        "A dollár a központi bankok számára egészen a 2008-as globális pénzügyi válságig átváltható volt aranyra",
+        "A dollár aranyra válthatóságát Nixon elnök szüntette meg 1971-ben"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Az alábbiak közül melyik NEM az állam jóléti funkciója?",
+      "valaszlehetosegek": [
+        "Munkahelyteremtés",
+        "Oktatás",
+        "Egészségügy",
+        "Családtámogatás"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Az alábbiak állítás közül melyik igaz:",
+      "valaszlehetosegek": [
+        "Az értékpapír kereskedők a közvetlen finanszírozási szereplői",
+        "A kereskedelmi bankok a közvetlen finanszírozási szereplői",
+        "Az üzleti biztosítók a közvetlen finanszírozási szereplői",
+        "A befektetési alapok a közvetlen finanszírozási szereplői"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Az alábbiak közül melyik állítás NEM igaz a nettó fizetési rendszerekre vonatkozóan?",
+      "valaszlehetosegek": [
+        "Alacsonyabb technikai likviditási igénye van, mint a bruttó fizetési rendszereknek",
+        "Az elszámolás és a kiegyenlítés időben elválnak egymástól",
+        "A nemfizetés kockázata magasabb a bruttó fizetési rendszerekhez viszonyítva"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "A VIBER ilyen elven működik:",
+      "valaszlehetosegek": [
+        "A VIBER ilyen elven működik"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Melyik állítás igaz az alábbiak közül?",
+      "valaszlehetosegek": [
+        "A deviza swap ügylet keretében a felek különböző devizákat cserélnek el egy adott időre, majd a szerződés lejártakor visszacserélik azokat",
+        "A kamatswap keretében hosszú lejáratú kamatokra visszacserélik azokat",
+        "A futures ügylet keretében az ügylet eladója kötelezettséget vállal arra, hogy egy adott értékpapírt elad a vevőnek, amennyiben az igényt tart arra",
+        "A futures ügylet keretében az értékpapír eladója olyan értékpapírt ad el, amit majd csak egy későbbi időpontban fog megvásárolni"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "A nemzetközi fizetési mérleg tőkemérlege melyik tételt NEM tartalmazza az alábbiak közül?",
+      "valaszlehetosegek": [
+        "Államadósság kamatterheinek fizetése",
+        "Portfóliótőke import",
+        "Külföldi hitelfelvétel",
+        "Működőtőke import"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "A jegybank által nyújtott hitelekre melyik állítás igaz az alábbiak közül?",
+      "valaszlehetosegek": [
+        "A jegybank alapesetben kamatmentesen hitelezi a kereskedelmi bankokat",
+        "A jegybank mindig piaci kamatokat számol fel a kereskedelmi bankoknak nyújtott hitelek után",
+        "A jegybank a kereskedelmi bankoknak fedezet kitörése nélkül ad hiteleket",
+        "A jegybank alapesetben csak fedezet mellett nyújt hitelt a kereskedelmi bankoknak"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "A felosztó-kirovó nyugdíj rendszerben:",
+      "valaszlehetosegek": [
+        "A befizetéseket a tőkepiacokon befektetik, és ennek hozamát osztják fel a nyugdíjasok között",
+        "A befizetéseket az államadóssággal együtt kezelik, és az államadósság növekedését vagy csökkenésétől függ a nyugdíjasok közötti felosztó mértéke",
+        "Mindenkinek egyéni nyugdíjszámlája van, és az azon lévő összeg határozza meg a nyugdíj nagyságát",
+        "Az aktuálisan befolyó befizetések fedezik az aktuális nyugdíj kiadásokat"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "A Bázeli Bankfelügyeleti Bizottság:",
+      "valaszlehetosegek": [
+        "Felügyeli az Európai Unió bankjait",
+        "Dolgozza ki a bankok szabályozására vonatkozó kötelező alkalmazandó jogszabályokat, amit minden országnak kötelezően alkalmaznia kell",
+        "Felügyeli az Amerikai Egyesült Államok bankjait",
+        "**Dolgozza ki a bankszabályozás nemzetközileg egységes elveit**"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Ha más nem változik meg körülöttünk, a folyó fizetési mérleg:",
+      "valaszlehetosegek": [
+        "**Egyen súlytalanná válik a reálgazdaság termelésének változására**",
+        "Aktívummá növeli a pénzmennyiséget, mert több devizát váltanak át hazai pénzre",
+        "Aktívummá teszi az államadósságot",
+        "A kereskedelmi banki tőkemérleget bővíti"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Az alábbiak közül mi igaz a maginflációra kapcsolatban?",
+      "valaszlehetosegek": [
+        "A maginfláció szemes gabonák árának változása",
+        "Az adott országban újonnan előállított termékek és szolgáltatások árváltozásának indexe",
+        "Nem tartalmazza a saját tulajdonú lakások árát és az egészségügyi és oktatási kiadások árait",
+        "**A gyorsan változó termékek árváltozásától és a szezonális hatásoktól megtisztított infláció**"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Az alábbiak közül melyik NEM tartozik az euró bevezetésének előnyei közé?",
+      "valaszlehetosegek": [
+        "Az egységes pénz használatával megszűnnek az átváltási költségek",
+        "Az egységes pénz használatával megszűnnek az árfolyamkockázatok",
+        "**Az egységes pénz használatával megszűnnek az adókülönbségek az országok között**",
+        "Az egységes pénz használatával átláthatóbbá válnak a gazdasági kalkulációk"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "A bank tőkéjére melyik állítás igaz az alábbiak közül?",
+      "valaszlehetosegek": [
+        "A bank szolvenciájának fenntartása miatt van rá szükség",
+        "Minél nagyobb a bank tőkéje, annál jövedelmezőbben tud a bank gazdálkodni",
+        "Alapvetően a szolvenciájának fenntartása miatt van rá szükség",
+        "Egyaránt fontos a szolvencia és a likviditás fenntartása szempontjából is"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Melyik szervezetnek NEM vezethet számlát az MNB?",
+      "valaszlehetosegek": [
+        "Országos Betegbiztosítási Alap",
+        "Pénzforgalmi szolgáltatást nyújtó intézmények",
+        "Pénzforgalmi tevékenységet végző szervezetek",
+        "Befektetési vállalkozások"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Az alábbiakban közül melyek az igazak a költségvetési szervekre?",
+      "valaszlehetosegek": [
+        "Az állam feladatainak többségét rajtuk keresztül látja el",
+        "Ilyenek pl. az Operaház, iskolák, kórházak",
+        "A működés legtöbb szabályait az államháztartási törvény tartalmazza",
+        "Alapító okiratuk van"
+      ],
+      "helyes_valasz": [0,1,2,3]
+    },
+    {
+      "kerdes": "Magyarországon a bankok melyik tevékenységeket végezhetik az alábbiak közül:",
+      "valaszlehetosegek": [
+        "Kibocsáthatnak részvényeket, kötvényeket és kincstárjegyeket",
+        "Számlát vezethetnek a lakossági és vállalati ügyfeleknek, valamint kereskedelmi bankoknak és a jegybanknak",
+        "Betétgyűjtés, hitelnyújtás, számlavezetés, saját számla befektetések, befektetési tanácsadás",
+        "Betétgyűjtés, hitelnyújtás, számlavezetést végezhetnek, de nem kereskedhetnek saját számlára, és nem nyújthatnak befektetési tanácsadást"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Az alábbiak közül melyek a Magyar Államkincstár feladata?",
+      "valaszlehetosegek": [
+        "Nyugdíjak folyósítása",
+        "Előirányzat nyilvántartás",
+        "Állampapír forgalmazás",
+        "Pénzforgalmi számlavezetés"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Az alábbiak közül melyik NEM az euró a nemzeti valuta?",
+      "valaszlehetosegek": [
+        "Szlovákia",
+        "Cseh köztársaság",
+        "Spanyolország",
+        "Portugália"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Az alábbiak közül melyik tartozik a vagyonadók csoportjába?",
+      "valaszlehetosegek": [
+        "SZJA",
+        "Kamatadó",
+        "ÁFA",
+        "Jövedéki adó"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Az alábbiak közül mit vizsgál a fiskális föderalizmus elmélete?",
+      "valaszlehetosegek": [
+        "A különböző kormányzati funkciókat, mely szint képes jól ellátni",
+        "A nonprofit szervezet szervezetek miként illeszthetők be a középügyi gazdálkodásba",
+        "Az államadósság optimális szintjének meghatározását",
+        "Az egészségügyi piacosítási lehetőségeit"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "A közköltségek hozzávetőlegesen hány százalékát fordítjuk az államadósság kezelése kamatterheire napjaink költségvetéseiben?",
+      "valaszlehetosegek": [
+        "2–3%"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Kockázati életbiztosítás esetén akkor fizet a biztosító, ha:",
+      "valaszlehetosegek": [
+        "Ha a biztosított egy adott életkor elérése előtt meghal",
+        "Ha a biztosított megér egy adott, kort akkor az előre meghatározott életkor bekövetkezésekor",
+        "A biztosított meghal, bármilyen életkorban is következzen be a halál",
+        "A szerződésben meghatározott lejárati időtartam végén"
+      ],
+      "helyes_valasz": [1]
+    },
+     {
+        "kerdes": "Melyik állítás IGAZ az értékpapírok belső értékével kapcsolatosan?",
+        "valaszlehetosegek": [
+            "Egy adott értékpapír belső értéke az adott értékpapír pénzáramainak jelenértékeinek összege.",
+            "Az értékpapír belső értéke mindig megegyezik a névértékkel.",
+            "Egy adott értékpapír belső értéke az adott értékpapír pénzáramainak jövőértékeinek összege.",
+            "Az értékpapírok belső értékét az értékpapír kibocsátó saját döntése határozza meg."
         ],
-            "helyes_valasz": [0]
-        },
-        {
-            "kerdes": "Mi nem okoz inflációt?",
-            "valaszlehetosegek": [
-            "Adócsökkentés",
-            "Költségnövekedés",
-            "Keresletnövekedés",
-            "Pénzkínálat növekedése"
+        "helyes_valasz": [0]
+    },
+    {
+        "kerdes": "A gazdaságtörténet eddig leghosszabban és legelterjedtebben használt pénze a(z):",
+        "valaszlehetosegek": ["arany", "ezüst", "kaori kagyló"],
+        "helyes_valasz": [0]
+    },
+    {
+        "kerdes": "A részvények esetében osztalékfizetésre mindig sor kerül.",
+        "valaszlehetosegek": ["Igaz", "Hamis"],
+        "helyes_valasz": [1]
+    },
+    {
+        "kerdes": "2001-től az inflációs célkövető rendszer célja az 1% fogyasztói árindex.",
+        "valaszlehetosegek": ["Hamis", "Igaz"],
+        "helyes_valasz": [0]
+    },
+    {
+        "kerdes": "Mit jelent az árstabilitás?",
+        "valaszlehetosegek": [
+            "Az árszínvonal ingadozása",
+            "Az infláció 0%-os szintje",
+            "Az infláció 3%-os toleranciasávban tartása",
+            "Az árszínvonal csökkenése"
         ],
-            "helyes_valasz": [0]
-        },
-        {
-            "kerdes": "A kereskedelmi bankok által kibocsátott kötvényeket a banki mérleg forrás oldalán találjuk.",
-            "valaszlehetosegek": [
-                "Igaz", "Hamis"
-            ],
-            "helyes_valasz": [0]
-        },
-        {
-            "kerdes": "A KELER elszámolási rendszeréhez nem kapcsolódik:",
-            "valaszlehetosegek": [
-            "SEPA",
-            "VIBER",
-            "TARGET2",
-            "Clearstream"
-            ],
-            "helyes_valasz": [0]
-        },
-        {
-            "kerdes": "A nyugdíjbiztosítási rendszerek finanszírozása 3 féle elvet követhet:",
-            "valaszlehetosegek": [
-            "Felosztó-kirovó, tőkefedezeti, várományfedezeti",
-            "Költségvetési, piaci, vegyes",
-            "Állami, magán, önkéntes",
-            "Befektetési, megtakarítási, biztosítási"
-            ],
-            "helyes_valasz": [0]
-        },
-        {
-            "kerdes": "Melyik nem költségvetési bevétel?",
-            "valaszlehetosegek": [
-            "Transzferek",
-            "Adók",
-            "Járulékok",
-            "Illetékek"
-            ],
-            "helyes_valasz": [0]
-        },
-        {
-            "kerdes": "A … típusú befektetési alap nem fogad be új befektetéseket, és bárki megveheti.",
-            "valaszlehetosegek": [
-            "Nyilvános, zárt végű",
-            "Zártkörű, nyílt végű",
-            "Nyilvános, nyílt végű",
-            "Zártkörű, zárt végű"
-            ],
-            "helyes_valasz": [0]
-        },
-        {
-            "kerdes": "Miről született megállapodás 1944-ben a Bretton Woodsban tartott konferencián?",
-            "valaszlehetosegek": [
-            "A gazdasági nagyhatalmak nemzeti valutáinak árfolyamát a dollárhoz rögzítették",
-            "Az aranyalapú pénzrendszer megszüntetéséről",
-            "Az Európai Unió megalapításáról",
-            "A Világbank és az IMF létrehozásáról"
-            ],
-            "helyes_valasz": [0]
-        },
-        {
-            "kerdes": "A kereskedelmi bankok más kereskedelmi bankoknak nyújtott hitelei a banki mérleg eszköz oldalán találhatók.",
-            "valaszlehetosegek": [
-                "Igaz", "Hamis"
-            ],
-            "helyes_valasz": [0]
-        },
-        {
-            "kerdes": "Milyen más néven ismert a Bretton Woods-i pénzrendszer?",
-            "valaszlehetosegek": [
-            "Dollárstandard rendszer",
-            "Aranyfedezeti rendszer",
-            "Lebegő árfolyamrendszer",
-            "Eurostandard rendszer"
-            ],
-            "helyes_valasz": [0]
-        },
-        {
-            "kerdes": "Melyik képlet fejezi ki a pénzmennyiséget a gazdaságban?",
-            "valaszlehetosegek": [
-            "MV = PT",
-            "GDP = C + I + G + NX",
-            "Y = C + I + G",
-            "M = P x T"
-            ],
-            "helyes_valasz": [0]
-        },
-        {
-            "kerdes": "A transzmissziós mechanizmus az a folyamat, amelynek segítségével a központi bank intézkedéseinek hatása a gazdaságba és végső soron az árakba átgűrűzik.",
-            "valaszlehetosegek": [
-                "Igaz", "Hamis"
-            ],
-            "helyes_valasz": [0]
-        },
-        {
-            "kerdes": "A költségvetési pénzforgalmi egyenlegének számításakor nem veszik figyelembe a privatizációs bevételeket.",
-            "valaszlehetosegek": [
-                "Igaz", "Hamis"
-            ],
-            "helyes_valasz": [1]
-        },
-        {
-            "kerdes": "A pénz forgalmi eszköz funkciója arra utal, hogy az áruk forgalmában a tranzakciók a pénz segítségével és nem árucsere formájában bonyolódnak.",
-            "valaszlehetosegek": [
-                "Igaz", "Hamis"
-            ],
-            "helyes_valasz": [0]
-        },
-        {
-            "kerdes": "A költségvetési deficit nem befolyásolja az államadósság nagyságát.",
-            "valaszlehetosegek": [
-                "Igaz", "Hamis"
-            ],
-            "helyes_valasz": [1]
-        },
-        {
-            "kerdes": "Az aranystandard idejében jelent meg a bitcoin.",
-            "valaszlehetosegek": [
-                "Igaz", "Hamis"
-            ],
-            "helyes_valasz": [1]
-        },
-        {
-            "kerdes": "A reálfolyamatok a termelést szolgáló erőforrások és szükségletkielégítést közvetlenül szolgáló javak és szolgáltatások áramlása.",
-            "valaszlehetosegek": [
-                "Igaz", "Hamis"
-            ],
-            "helyes_valasz": [0]
-        },
-        {
-            "kerdes": "Amennyiben a pénz árumozgáshoz kötődik, akkor forgalmi eszköz:",
-            "valaszlehetosegek": [
-                "Igaz", "Hamis"
-            ],
-            "helyes_valasz": [1]
-        },
-        {
-            "kerdes": "Válassza ki a helyes állítást (állításokat)!",
-            "valaszlehetosegek": [
-                "A fogyasztói árindex a bázisidőszaki, és a tárgyidőszaki fogyasztást súlyozva veszi figyelembe.",
-                "A fogyasztói árindex a bázisidőszaki fogyasztási szerkezetet tükrözi.",
-                "A fogyasztói árindex a vizsgált időszak időszaki fogyasztási szerkezetét tükrözi.",
-                "A fogyasztói árindex a bázisidőszaki fogyasztást a tárgyidőszakra vonatkozó jelentősebb változásokkal korrigálva veszi figyelembe."
-            ],
-            "helyes_valasz": [1]
-        },
-        {
-            "kerdes": "A gazdaságtörténet eddig leghosszabban és legelterjedtebben használt pénze a(z):",
-            "valaszlehetosegek": [
-                "arany",
-                "ezüst",
-                "kaori kagyló",
-                "só"
-            ],
-            "helyes_valasz": [0]
-        },
-        {
-            "kerdes": "Válassza ki a helyes megállapítást!",
-            "valaszlehetosegek": [
-                "Az SDR az elszámolás alapegysége az IMF-ben.",
-                "A Világbank forrásait részvény kibocsátással teremti meg.",
-                "A Bretton Woods-i rendszer 1981-ben bomlott fel.",
-                "A korai globalizáció pénzügyi rendszerére a liberalizáció a jellemző."
-            ],
-            "helyes_valasz": [0, 1, 3]
-        },
-        {
-            "kerdes": "Ha ma rendelkezem 1 400 000 Ft-tal, mennyi lesz ennek az értéke 7 év múlva 10,8%-os piaci kamatláb mellett, ha a kamatokat nem tőkésítjük?",
-            "valaszlehetosegek": [
-                "2458400",
-                "3113200",
-                "1987400",
-                "2768000"
-            ],
-            "helyes_valasz": [0]
-        },
-        {
-            "kerdes": "Melyek a közvetlen finanszírozás szereplői?",
-            "valaszlehetosegek": [
-                "önkormányzatok",
-                "befektetési bankok",
-                "vállalatok",
-                "spekulánsok"
-            ],
-            "helyes_valasz": [1,2]
-        },
-        {
-            "kerdes": "CETOP a BÉT közepes és kis kapitalizációjú részvényindexe.",
-            "valaszlehetosegek": [
-                "Igaz",
-                "Hamis"
-            ],
-            "helyes_valasz": [1]
-        },
-        {
-            "kerdes": "A részvények esetében osztalékfizetésre mindig sor kerül.",
-            "valaszlehetosegek": [
-                "Igaz",
-                "Hamis"
-            ],
-            "helyes_valasz": [1]
-        },
-        {
-            "kerdes": "A növekedési hitelprogram a monetáris politika részeként a devizapiac stabilizálására szolgált.",
-            "valaszlehetosegek": [
-                "Igaz",
-                "Hamis"
-            ],
-            "helyes_valasz": [1]
-        },
-        {
-            "kerdes": "A Bretton Woods-i rendszerben csak az USD-nek volt aranyparitása.",
-            "valaszlehetosegek": [
-                "Igaz",
-                "Hamis"
-            ],
-            "helyes_valasz": [0]
-        },
-        {
-            "kerdes": "2001-től az inflációs célkövető rendszer célja az 1% fogyasztói árindex.",
-            "valaszlehetosegek": [
-                "Igaz",
-                "Hamis"
-            ],
-            "helyes_valasz": [1]
-        },
-        {
-            "kerdes": "Mely állítások IGAZAK az értékpapír jövedelmekkel kapcsolatban?",
-            "valaszlehetosegek": [
-                "A diverzifikáció befolyásolja a befektetési portfólió jövedelmezőségét.",
-                "Az értékpapír jövedelmek esetében felmerülhet adó- és járulékfizetési kötelezettség.",
-                "Az értékpapírok esetében a pozitív hozam garantált.",
-                "A kötvények hozama kizárólag a kamatnyereség."
-            ],
-            "helyes_valasz": [0, 1]
-        },
-        {
-            "kerdes": "Válassza ki a helyes megállapítást az euróval, EKB-val kapcsolatban!",
-            "valaszlehetosegek": [
-                "Az euró számlapénzként 1995-ben lett bevezetve.",
-                "Az euró készpénzként 2002-ben jelent meg.",
-                "Az EKB székhelye Brüsszel.",
-                "Az EKB fő feladata az euró árfolyampolitikájának kialakítása."
-            ],
-            "helyes_valasz": [1,3]
-        },
-        {
-            "kerdes": "Mekkora árfolyam mellett kerül kibocsátásra egy 13 éves futamidejű kötvény 7,4% hozam mellett, 10 000 Ft névértékkel?",
-            "valaszlehetosegek": [
-                "3790",
-                "5590",
-                "4200",
-                "3990"
-            ],
-            "helyes_valasz": [0]
-        },
-        {
-            "kerdes": "Mit jelent az árstabilitás?",
-            "valaszlehetosegek": [
-                "Az árszínvonal ingadozása",
-                "Az infláció 0%-os szintje",
-                "Az infláció 3%-os toleranciasávban tartása",
-                "Az árszínvonal csökkenése"
-            ],
-            "helyes_valasz": [2]
-        },
-        {
-            "kerdes": "Nem tartozik a piacgazdasági tökéletlenségek közé:",
-            "valaszlehetosegek": [
-            "Jövedelmi egyenlőtlenség",
-            "Újratermelési ciklus",
-            "Piaci egyensúly",
-            "Monopóliumok"
-            ],
-            "helyes_valasz": [2]
-        },
-        {
-            "kerdes": "Hozam szerint milyen típusú értékpapír nem létezik?",
-            "valaszlehetosegek": [
-                "Lejárat nélküli",
-                "Változó",
-                "Kamatozó részvény",
-                "Konstans"
-            ],
-            "helyes_valasz": [2]
-        },
-        {
-            "kerdes": "Mennyi az annuitásfaktor, ha 21 évig évi 30 000 Ft-ot hoz a befektetés, 44% hozammal?",
-            "valaszlehetosegek": [
-                "2.5487",
-                "2.8732",
-                "2.49",
-                "3.0194"
-            ],
-            "helyes_valasz": [0]
-        },
-        {
-            "kerdes": "Mely állítások igazak az alapok új befektetők befogadása szerinti típusaira?",
-            "valaszlehetosegek": [
-                "A nyilvános befektetési jegyeket bárki megvásárolhatja.",
-                "A zárt végű alapok határozott futamidejűek, és csak lejáratkor fizetnek vissza.",
-                "A zártkörű befektetési jegyeket bárki szabadon megvásárolhatja a tőzsdén."
-            ],
-            "helyes_valasz": [0]
-        },
-        {
-            "kerdes": "Milyen eszközök szerepelnek a jegybank monetáris politikai eszköztárában?",
-            "valaszlehetosegek": [
-                "Devizaswap",
-                "Értékpapírcsere",
-                "Fiskális kötvények",
-                "Kamatswap"
-            ],
-            "helyes_valasz": [0,1,3]
-        },
-        {
-            "kerdes": "A kereskedelmi bankok mérlegének forrásoldalán találhatók a vállalati ügyfeleknek nyújtott hitelek.",
-            "valaszlehetosegek": [
-                "Igaz",
-                "Hamis"
-            ],
-            "helyes_valasz": [1]
-        },
-        {
-            "kerdes": "A fogyasztói árindex (CPI) számítása során…",
-            "valaszlehetosegek": [
-                "a reprezentánsokat 12 főcsoportba sorolják",
-                "3000 reprezentáns árát figyelik",
-                "2000 reprezentáns árát figyelik",
-                "1000 reprezentáns árát figyelik"
-            ],
-            "helyes_valasz": [0,1]
-        }
-    ]
+        "helyes_valasz": [2]
+    },
+    {
+        "kerdes": "Egy befektetés az elkövetkező 21 év mindegyikében 30 000 Ft-ot hoz (az éves hozamelvárás 44%). Mennyivel kell megszorozni az éves hozamot a jelenérték kiszámításához (annuitásfaktor)?",
+        "valaszlehetosegek": ["2.5487"],
+        "helyes_valasz": [0]
+    },
+    {
+        "kerdes": "Milyen eszközök szerepelnek a jegybank monetáris politikai eszköztárában?",
+        "valaszlehetosegek": ["Devizaswap", "Értékpapírcsere", "Fiskális kötvények", "Kamatswap"],
+        "helyes_valasz": [0,1,3]
+    },
+    {
+        "kerdes": "Mely állítások igazak az alapok új befektetők befogadása szerinti típusaira?",
+        "valaszlehetosegek": [
+            "A nyilvános befektetési jegyeket bárki megvásárolhatja.",
+            "A zárt végű alapok nem fogadnak be új befektetéseket, és csak lejáratkor fizetnek vissza.",
+            "A nyílt végű alapok határozott futamidejűek, és csak lejáratkor fizetnek vissza.",
+            "A zártkörű befektetési jegyeket bárki szabadon megvásárolhatja a tőzsdén."
+        ],
+        "helyes_valasz": [0,1,3]
+    },
+    {
+        "kerdes": "A 2023. évi átlagos infláció Magyarországon:",
+        "valaszlehetosegek": ["17,6%", "7,6%", "27,6%", "37,6%"],
+        "helyes_valasz": [0]
+    },
+    {
+        "kerdes": "Nem tartozik a piacgazdasági tökéletlenségek közé:",
+        "valaszlehetosegek": ["jövedelmi egyenlőtlenség", "újratermelési ciklus", "piaci egyensúly"],
+        "helyes_valasz": [2]
+    },
+    {
+        "kerdes": "A Bretton Woods-i rendszerben csak az USD-nek volt aranyparitása.",
+        "valaszlehetosegek": ["Igaz", "Hamis"],
+        "helyes_valasz": [0]
+    },
+    {
+        "kerdes": "Válassza ki a helyes megállapítást!",
+        "valaszlehetosegek": [
+            "Az SDR az elszámolás alapegysége az IMF-ben.",
+            "A Világbank forrásait részvény kibocsátással teremti meg.",
+            "A Bretton Woods-i rendszer 1981-ben bomlott fel.",
+            "A korai globalizáció pénzügyi rendszerére a liberalizáció a jellemző."
+        ],
+        "helyes_valasz": [0,1,3]
+    },
+    {
+        "kerdes": "Ha ma rendelkezem 1 400 000 Ft-tal, mennyi lesz ennek a pénzösszegnek az értéke 7 év múlva 10,80%-os kamatláb mellett, ha a kamatokat nem tőkésítjük?",
+        "valaszlehetosegek": ["2 458 400 Ft"],
+        "helyes_valasz": [0]
+    },
+    {
+        "kerdes": "CETOP a BÉT közepes és kis kapitalizációjú részvényindexe.",
+        "valaszlehetosegek": ["Hamis", "Igaz"],
+        "helyes_valasz": [0]
+    },
+    {
+        "kerdes": "Melyek a közvetlen finanszírozás szereplői?",
+        "valaszlehetosegek": ["Önkormányzatok", "Befektetési bankok", "Vállalatok", "Spekulánsok"],
+        "helyes_valasz": [2]
+    },
+    {
+        "kerdes": "A kereskedelmi bankok mérlegének forrás oldalán szerepelnek a:",
+        "valaszlehetosegek": [
+            "kereskedelmi bankoknál (pl. a bank fiókjában) lévő készpénz, lakosság lekötött betétei, vállalati ügyfelek lekötött betétei",
+            "lakossági ügyfelek lekötött betétei, vállalati ügyfelek betétei, tárgyi eszközök",
+            "saját tőke, más kereskedelmi bankoknak nyújtott hitelek, tárgyi eszközök",
+            "saját tőke, lakossági ügyfelek lekötött betétei, vállalati ügyfelek lekötött betétei"
+        ],
+        "helyes_valasz": [3]
+    },
+    {
+        "kerdes": "A fogyasztói árindex (CPI) számítása során…",
+        "valaszlehetosegek": [
+            "a reprezentánsokat 12 főcsoportba sorolják",
+            "3000 reprezentáns árát figyelik",
+            "2000 reprezentáns árát figyelik",
+            "1000 reprezentáns árát figyelik"
+        ],
+        "helyes_valasz": [0]
+    },
+    {
+        "kerdes": "Mely állítások IGAZAK az értékpapír jövedelmekkel kapcsolatosan?",
+        "valaszlehetosegek": [
+            "A diverzifikáció befolyásolja a befektetési portfólió jövedelmezőségét.",
+            "Az értékpapír jövedelmek esetében felmerülhet adó- és járulékfizetési kötelezettség.",
+            "Az értékpapírok esetében a pozitív hozam garantált",
+            "A kötvények hozama kizárólag a kamatnyereség"
+        ],
+        "helyes_valasz": [0,1]
+    },
+    {
+        "kerdes": "A kereskedelmi bankok mérlegének forrásoldalán találhatók a vállalati ügyfeleknek nyújtott hitelek.",
+        "valaszlehetosegek": ["Igaz", "Hamis"],
+        "helyes_valasz": [1]
+    },
+    {
+        "kerdes": "A Magyar Állam egy 13 éves futamidejű elemi kötvényt tervez kibocsátani 10 000 Ft névértékkel, amely esetében 7,4% az elvárt hozam. Várhatóan mekkora árfolyam mellett kerül kibocsátásra?",
+        "valaszlehetosegek": ["4059"],
+        "helyes_valasz": [0]
+    },
+    {
+        "kerdes": "Hozam szerint milyen típusú értékpapír nem létezik?",
+        "valaszlehetosegek": ["Lejárat nélküli", "Fix", "Változó", "Kamatozó részvény"],
+        "helyes_valasz": [3]
+    },
+    {
+        "kerdes": "A növekedési hitelprogram a monetáris politika részeként a devizapiac stabilizálására szolgált.",
+        "valaszlehetosegek": ["Igaz", "Hamis"],
+        "helyes_valasz": [1]
+    },{
+        "kerdes": "Melyik a fizetési rendszerek hatása az alábbiak közül?",
+        "valaszlehetosegek": [
+            "Növeli a pénz forgási sebességét",
+            "Egyensúlyi zavarok esetén a feszültségek tompítása"
+        ],
+        "helyes_valasz": [0,1]
+    },
+    {
+        "kerdes": "Nem tartozik a piacgazdasági tökéletlenségek közé",
+        "valaszlehetosegek": ["piaci egyensúly"],
+        "helyes_valasz": [0]
+    },
+    {
+        "kerdes": "Költségvetési deficit finanszírozása történhet",
+        "valaszlehetosegek": [
+            "tőkepiaci műveletekkel",
+            "vagyoneladással"
+        ],
+        "helyes_valasz": [0,1]
+    },
+    {
+        "kerdes": "Milyen eszközökkel stabilizálja a jegybank a bankközi piacot?",
+        "valaszlehetosegek": [
+            "Jegybanki hitelkeret",
+            "Kamatfolyosó",
+            "Devizapiaci intervenciók"
+        ],
+        "helyes_valasz": [0,1,2]
+    },
+    {
+        "kerdes": "A jegybanki alapkamat a rövid lejáratú piaci kamatok alakulására van közvetlen hatással, ezt hívjuk operatív célnak.",
+        "valaszlehetosegek": ["Igaz"],
+        "helyes_valasz": [0]
+    },
+    {
+        "kerdes": "Hogyan befolyásolja a jegybanki alapkamat emelése a gazdaságot?",
+        "valaszlehetosegek": [
+            "Csökkenti az inflációs nyomást",
+            "Stabilizálja az árfolyamokat"
+        ],
+        "helyes_valasz": [0,1]
+    },
+    {
+        "kerdes": "2015 márciustól az inflációs célkövető rendszert +/- 1% tolerancia sávval alkalmazzák.",
+        "valaszlehetosegek": ["Igaz"],
+        "helyes_valasz": [0]
+    },
+    {
+        "kerdes": "Az árszínvonal:",
+        "valaszlehetosegek": [
+            "az egységnyi áruért fizetendő pénzmennyiség",
+            "mérése az árak súlyozott átlagával történik"
+        ],
+        "helyes_valasz": [0,1]
+    },
+    {
+        "kerdes": "A másodlagos kereskedés az újonnan kibocsátott értékpapírok forgalomba hozatala.",
+        "valaszlehetosegek": ["Hamis"],
+        "helyes_valasz": [0]
+    },
+    {
+        "kerdes": "Az alábbiak közül melyik nem származtatott ügylet?",
+        "valaszlehetosegek": ["BUMIX"],
+        "helyes_valasz": [0]
+    },
+    {
+        "kerdes": "Melyik jellemző a nemzetközi devizapiacokra?",
+        "valaszlehetosegek": [
+            "Tranzakciók zöme USD-ben zajlik",
+            "Ügylet: azonnali és swap dominál"
+        ],
+        "helyes_valasz": [0,1]
+    },
+    {
+        "kerdes": "Mely állítások igazak a nyugdíjtervek finanszírozási módjaival kapcsolatban?",
+        "valaszlehetosegek": [
+            "A tőkefedezeti rendszerben a befizetések tőkepiaci befektetésre kerülnek, és ennek hozama határozza meg a nyugdíj mértékét.",
+            "A felosztó-kirovó rendszer tipikusan állami nyugdíjtervekben fordul elő.",
+            "A felosztó-kirovó rendszerben a jelenlegi befizetések a jövőbeli nyugdíjakat fedezik."
+        ],
+        "helyes_valasz": [0]
+    },
+    {
+        "kerdes": "A kereskedelmi bankok kockázatot vállalnak, mivel hosszú lejáratú hiteleket nyújtanak rövid lejáratú betétekből.",
+        "valaszlehetosegek": ["Igaz"],
+        "helyes_valasz": [0]
+    },
+    {
+        "kerdes": "A bankszabályozás nemzetközi keretrendszerében az egységes tőkekövetelményeket az alábbi néven ismert irányelvek alapján dolgozták ki:",
+        "valaszlehetosegek": ["Bázeli"],
+        "helyes_valasz": [0]
+    },
+    {
+        "kerdes": "A pénz kialakulásának szervetlen útja:",
+        "valaszlehetosegek": [
+            "az ázsiai öntözéses társadalmakra jellemző",
+            "az állami redisztribúció igényeit elégítette ki"
+        ],
+        "helyes_valasz": [0, 1]
+    },
+    {
+        "kerdes": "A gazdaságtörténet eddig leghosszabban és legelterjedtebben használt pénze a(z):",
+        "valaszlehetosegek": ["arany"],
+        "helyes_valasz": [0]
+    },
+    {
+        "kerdes": "A Gresham-törvény szerint a jó pénz kiszorítja a rossz pénzt a fizetési forgalomból.",
+        "valaszlehetosegek": ["Hamis", "Igaz"],
+        "helyes_valasz": [0]
+    },
+    {
+        "kerdes": "Az alábbiak közül melyik állítás IGAZ?",
+        "valaszlehetosegek": ["A részvények belső értékének meghatározásához használjuk a Gordon-modellt."],
+        "helyes_valasz": [0]
+    },
+    {
+        "kerdes": "A Gordon-modell az állandóan növekvő osztalékokkal számol.",
+        "valaszlehetosegek": ["Igaz", "Hamis"],
+        "helyes_valasz": [0]
+    },
+    {
+        "kerdes": "A Magyar Állam egy 7 éves futamidejű elemi kötvényt tervez kibocsátani 10000 Ft névértékkel, amely esetében 8.6% az elvárt hozam. Várhatóan mekkora árfolyam mellett kerül kibocsátásra?",
+        "valaszlehetosegek": ["5355"],
+        "helyes_valasz": [0]
+    },
+    {
+        "kerdes": "Egy alapítvány 10000000 forintot helyez el egy fix 4% -kal kamatozó számlára. Mekkora összeget oszthat ki minden év végén az alapítvány kuratóriuma, ha csak a mindenkori hozamokat kívánják kiosztani?",
+        "valaszlehetosegek": ["400000"],
+        "helyes_valasz": [0]
+    },
+    {
+        "kerdes": "Egy befektetés az elkövetkező 4 év mindegyikében 30.000 Ft-ot hoz (az éves hozamelvárás 10%). Mennyi a jelenértékszámításhoz szükséges annuitásfaktor?",
+        "valaszlehetosegek": ["3.1699"],
+        "helyes_valasz": [0]
+    },
+    {
+        "kerdes": "Ha ma rendelkezem 1200000 Ft-tal, mennyi lesz ennek a pénzösszegnek az 5 év múlvai értéke 9% -os piaci kamatláb mellett, ha a kamatokat nem tőkésítjük?",
+        "valaszlehetosegek": ["1740000",
+                    "2300000",
+                    "1230000",
+                    "1890000"
+    ],
+        "helyes_valasz": [0]
+    }
+  ]
 }

@@ -68,12 +68,13 @@ class QuizApp:
     def shuffle_asnwers(self, question):
         correct = question["helyes_valasz"]
         correct_text = [question["valaszlehetosegek"][i] for i in correct]
-        question["valaszlehetosegek"] = random.shuffle(question["valaszlehetosegek"])
+        random.shuffle(question["valaszlehetosegek"])
         new_correct = []
         for i in range(len(question["valaszlehetosegek"])):
             if question["valaszlehetosegek"][i] in correct_text:
                 new_correct.append(i)
         question["helyes_valasz"] = new_correct
+
     def set_valasz(self, x):
         if (x not in self.valaszok):
             self.valaszok.append(x)
@@ -86,10 +87,9 @@ class QuizApp:
                 self.answer_buttons[i].config(bg="lightgray")
         
     def check_answer(self):
-        selected = [i for i, var in enumerate(self.check_vars) if var.get() == 1]
         correct = set(self.current_question["helyes_valasz"])
 
-        if set(selected) == correct:
+        if set(self.valaszok) == correct:
             self.result_label.config(text="✅ Helyes válasz!", fg="green")
         else:
             helyes_szöveg = ", ".join(
