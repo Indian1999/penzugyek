@@ -1,0 +1,1524 @@
+{
+  "kerdesek": [
+    {
+      "kerdes": "Az „AA” Zrt. tárgyév november 1-jén 20 000 E Ft kölcsönt nyújt „BB” Kft.-nek. A kölcsönszerződésből a következő kiemelt információkat ismeri: futamidő 4 év, törlesztés a futamidő végén egy összegben, kamat 12 % évente, kamatfizetés évente. Az alábbi állítások közül válassza ki a helyes állítást/állításokat!",
+      "valaszlehetosegek": [
+        "„AA” Kft.-nek 2 000 E Ft-ot kell kimutatni a költségek, ráfordítások passzív időbeli elhatárolásai között.",
+        "„BB” Zrt.-nek 2 000 E Ft-ot kell kimutatni a bevételek passzív időbeli elhatárolásai között.",
+        "„BB” Zrt.-nek 400 E Ft-ot kell kimutatni a bevételek aktív időbeli elhatárolásai között.",
+        "„AA” Kft.-nek 400 E Ft-ot kell kimutatni a bevételek aktív időbeli elhatárolásai között."
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Egy beruházással kapcsolatosan az üzembe helyezésig vásárolt tartozékok értéke 140 E Ft + 37,8 E Ft ÁFA az üzembe helyezést követően 100 E Ft + 27 E Ft ÁFA. Válassza ki a helyes megállapítást!",
+      "valaszlehetosegek": [
+        "A tartozékok összességében 140 E Ft-tal csökkentették a tárgyi eszköz bekerülési értékét.",
+        "A tartozékok összességében 140 E Ft-tal növelték a tárgyi eszköz bekerülési értékét.",
+        "A tartozékok összességében nem változtattak a tárgyi eszköz bekerülési értékén.",
+        "A tartozékok összességében 240 E Ft-tal növelték a tárgyi eszköz bekerülési értékét."
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Az anyagjellegű ráfordításoknak nem része:",
+      "valaszlehetosegek": [
+        "anyagköltség",
+        "igénybe vett szolgáltatás",
+        "ELÁBÉ",
+        "egyéb ráfordítás"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Ha a vállalkozás az alapanyagkészletéről folyamatos nyilvántartást nem vezet (mennyiségben sem és értékben sem), akkor",
+      "valaszlehetosegek": [
+        "a beszerzéseket ráfordításként (ELÁBÉ) kell elszámolni",
+        "a beszerzéseket anyagköltségként kell elszámolni a bejövő bizonylat alapján",
+        "a záró készlet értékét a LIFO készletértékelési eljárás alapján kell megállapítani",
+        "a fordulónapra vonatkozó tényleges mennyiségi felvétel nem kötelező"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "A tárgyi eszközök terv szerinti értékcsökkenési leírásának elszámolása",
+      "valaszlehetosegek": [
+        "növeli az egyéb ráfordításokat",
+        "csökkenti az üzemi (üzleti) tevékenység eredményét",
+        "csökkenti a pénzügyi műveletek eredményét",
+        "nem érinti eredményt"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Az „AA” Kft. tárgyév szeptember 1-jén 15 000 E Ft kölcsönt nyújt „BB” Kft.-nek. A kölcsönszerződésből a következő kiemelt információkat ismeri: futamidő 5 év, törlesztés a futamidő végén egy összegben, kamat 12 % évente, kamatfizetés évente. Az alábbi állítások közül válassza ki a helyes állítást!",
+      "valaszlehetosegek": [
+        "„AA” Kft.-nek 1 800 E Ft-ot kell kimutatni a költségek, ráfordítások passzív időbeli elhatárolásai között.",
+        "„BB” Zrt.-nek 1 800 E Ft-ot kell kimutatni a bevételek passzív időbeli elhatárolásai között.",
+        "„BB” Zrt.-nek 600 E Ft-ot kell kimutatni a bevételek aktív időbeli elhatárolásai között.",
+        "„AA” Kft.-nek 600 E Ft-ot kell kimutatni a bevételek aktív időbeli elhatárolásai között."
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Egy beruházással kapcsolatosan a vételár 150 E Ft + 40,5 E Ft ÁFA, a szállítási költség 70 E Ft + 18,9 E Ft ÁFA, az üzembe helyezésig vásárolt tartozékok értéke 30 E Ft + 8,1 E Ft ÁFA, az üzembe helyezés utáni tartozékok értéke 20 E Ft + 5,4 E Ft ÁFA. Az ÁFA visszaigényelhető. Válassza ki a helyes megállapítást!",
+      "valaszlehetosegek": [
+        "Összességében 342,9 E Ft-tal nőtt a tárgyi eszköz bekerülési értéke.",
+        "Összességében 250 E Ft-tal nőtt a tárgyi eszköz bekerülési értéke.",
+        "Összességében 270 E Ft-tal nőtt a tárgyi eszköz bekerülési értéke.",
+        "Összességében 317,5 E Ft-tal nőtt a tárgyi eszköz bekerülési értéke."
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "A személyi jellegű ráfordításoknak nem része:",
+      "valaszlehetosegek": [
+        "bérköltség",
+        "bérjárulékok",
+        "munkavállalóknak fizetett előlegek",
+        "személyi jellegű egyéb kifizetések"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Ha a vállalkozás az árukészletéről folyamatos nyilvántartást nem vezet (mennyiségben sem és értékben sem), akkor",
+      "valaszlehetosegek": [
+        "a beszerzéseket ráfordításként (ELÁBÉ) kell elszámolni",
+        "a beszerzéseket anyagköltségként kell elszámolni a bejövő bizonylat alapján",
+        "a záró készlet értékét gördülő átlagár módszerrel kell megállapítani",
+        "a fordulónapra vonatkozó tényleges mennyiségi felvétel nem kötelező"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "A tárgyi eszközök terven felüli értékcsökkenési leírásának elszámolása",
+      "valaszlehetosegek": [
+        "növeli az egyéb ráfordításokat",
+        "növeli az értékcsökkenési leírást",
+        "csökkenti a pénzügyi műveletek eredményét",
+        "nem érinti eredményt"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Válassza ki, hogy az alábbi vagyonelemek közül melyik nem lehet apport tárgya?",
+      "valaszlehetosegek": [
+        "Szellemi termék",
+        "Vagyoni értékű jog",
+        "Beruházási hiteltartozás",
+        "Ingatlan"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Válassza ki az előtársaságra vonatkozó igaz állítást!",
+      "valaszlehetosegek": [
+        "Az előtársasági időszak alatt a társasági szerződés módosítható.",
+        "Az előtársaság részt vehet más gazdasági társaság alapításában.",
+        "A társaság iratain, szerződésein fel kell tüntetni a cég megnevezése mellett a „bejegyzés alatt” szövegrészt.",
+        "Az előtársasági időszakban nem végezhető üzletszerű tevékenység."
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Melyik tétel nem minősül alapítási költségnek?",
+      "valaszlehetosegek": [
+        "Vállalkozásra továbbterhelt energiadíj a bérelt irodával kapcsolatosan",
+        "Ügyvédi ellenjegyzés díja",
+        "Eljárási illeték",
+        "Számviteli szabályzatok elkészítéséért fizetett könyvviteli szolgáltatás díja"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Válassza ki a helyes állítást! A jegyzett, de be nem fizetett tőke számla egyenlege",
+      "valaszlehetosegek": [
+        "minden esetben a követelések mérlegcsoportban kerül kimutatásra",
+        "minden esetben a saját tőke mérlegfőcsoportban kerül kimutatásra",
+        "lehet negatív és pozitív egyaránt",
+        "jellemzően követel jellegű"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Ha a vállalkozás az összemérés és az időbeli elhatárolás számviteli alapelvek figyelmen kívül hagyása miatt nem könyvelne időbeli elhatárolásokat, akkor",
+      "valaszlehetosegek": [
+        "a vállalkozás nagyobb adózás előtti eredményt mutatna ki",
+        "a vállalkozás kisebb adózás előtti eredményt mutatna ki",
+        "a vállalkozás nagyobb üzemi (üzleti) tevékenység eredményét mutatna ki",
+        "a vállalkozás lehetséges, hogy nagyobb vagy kisebb adózás előtti eredményt mutatna ki"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "A passzív időbeli elhatárolások eredményt …………………… elszámolások, amelynek következtében a tárgyidőszaki bevételek ………………, vagy a tárgyidőszaki költségek, ráfordítások ……………………",
+      "valaszlehetosegek": [
+        "csökkentő – csökkennek – növekednek",
+        "csökkentő – növekednek – csökkennek",
+        "növelő – csökkennek – növekednek",
+        "növelő – növekednek – csökkennek"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Az aktív időbeli elhatárolások eredményt …………………… elszámolások, amelynek következtében a tárgyidőszaki bevételek ………………, vagy a tárgyidőszaki költségek, ráfordítások ……………………",
+      "valaszlehetosegek": [
+        "csökkentő – csökkennek – növekednek",
+        "csökkentő – növekednek – csökkennek",
+        "növelő – csökkennek – növekednek",
+        "növelő – növekednek – csökkennek"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Válassza ki a helytelen állítást!",
+      "valaszlehetosegek": [
+        "Az aktív időbeli elhatárolások elszámolása az eredményt növeli.",
+        "A passzív időbeli elhatárolások elszámolása az eredményt csökkenti.",
+        "Az aktív időbeli elhatárolások elszámolása a bevételt növeli vagy a költséget (ráfordítást) csökkenti.",
+        "A passzív időbeli elhatárolások elszámolása a bevételt növeli vagy a költséget (ráfordítást) csökkenti."
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Válassza ki a helytelen állítást!",
+      "valaszlehetosegek": [
+        "A passzív időbeli elhatárolások elszámolása a bevételt csökkenti vagy a költséget (ráfordítást) növeli.",
+        "Az aktív időbeli elhatárolások elszámolása az eredményt növeli.",
+        "A passzív időbeli elhatárolások elszámolása az eredményt csökkenti.",
+        "Az aktív időbeli elhatárolások elszámolása a bevételt csökkenti vagy a költséget (ráfordítást) növeli."
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Az időbeli elhatárolások a(z) ………………… és a(z) ………………… elvéből következő, a megbízható valós összkép – ezen belül elsősorban az eredmény – pontosítását célzó elszámolások.",
+      "valaszlehetosegek": [
+        "valódiság és az időbeli elhatárolások elvéből",
+        "következetesség és az időbeli elhatárolások elvéből",
+        "összemérés és az időbeli elhatárolások elvéből",
+        "teljesség és az időbeli elhatárolások elvéből"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "… elkülönítetten – … a mérlegben kimutatni az olyan járó árbevételt, kamat- és egyéb bevételeket, amelyek csak a mérleg fordulónapja után esedékesek, de a mérleggel lezárt időszakra számolandók el.",
+      "valaszlehetosegek": [
+        "Aktív időbeli elhatárolások között – kell",
+        "Aktív időbeli elhatárolások között – lehet",
+        "Passzív időbeli elhatárolások között – kell",
+        "Passzív időbeli elhatárolások között – lehet"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "… elkülönítetten kimutatni a mérleg fordulónapja előtt befolyt, elszámolt bevételt, amely a mérleg fordulónapja utáni időszak árbevételét, bevételét képezi.",
+      "valaszlehetosegek": [
+        "Aktív időbeli elhatárolásként kell",
+        "Aktív időbeli elhatárolásként lehet",
+        "Passzív időbeli elhatárolásként kell",
+        "Passzív időbeli elhatárolásként lehet"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "… elkülönítetten – … a mérlegben kimutatni az üzleti év mérlegének fordulónapja előtt felmerült, elszámolt olyan összegeket, amelyek költségként, ráfordításként csak a mérleg fordulónapját követő időszakra számolhatók el.",
+      "valaszlehetosegek": [
+        "Aktív időbeli elhatárolásként – kell",
+        "Aktív időbeli elhatárolásként – lehet",
+        "Passzív időbeli elhatárolásként – kell",
+        "Passzív időbeli elhatárolásként – lehet"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Válassza ki a helytelen állítást!",
+      "valaszlehetosegek": [
+        "A bevételek aktív időbeli elhatárolásainak könyvviteli elszámolása a következő: T 9. Bevételek – K 3. Bevételek aktív időbeli elhatárolásai",
+        "A bevételek passzív időbeli elhatárolásainak könyvviteli elszámolása a következő: T 9. Bevételek – K 4. Bevételek passzív időbeli elhatárolásai",
+        "A költségek, ráfordítások passzív időbeli elhatárolásainak könyvviteli elszámolása a következő: T 5. Költségek/8. Ráfordítások – K 4. Költségek, ráfordítások passzív időbeli elhatárolásai",
+        "A költségek, ráfordítások aktív időbeli elhatárolásainak könyvviteli elszámolása a következő: T 3. Költségek, ráfordítások aktív időbeli elhatárolásai – K 5. Költségek/8. Ráfordítások"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "… elkülönítetten kimutatni a mérleg fordulónapja előtti időszakot terhelő költséget, ráfordítást, amely csak a mérleg fordulónapja utáni időszakban merül fel, kerül számlázásra.",
+      "valaszlehetosegek": [
+        "Aktív időbeli elhatárolásként kell",
+        "Aktív időbeli elhatárolásként lehet",
+        "Passzív időbeli elhatárolásként kell",
+        "Passzív időbeli elhatárolásként lehet"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Melyik megállapítás helyes?",
+      "valaszlehetosegek": [
+        "Az időbeli elhatárolások mindig legalább két időszakot érintenek, az egyik időszak az állományba vétel időszaka, majd a következő időszakban vagy időszakokban megszüntetjük azt (visszavezetjük, feloldjuk).",
+        "Az időbeli elhatárolások mindig egy időszakot érintenek, az időszak eleje az állományba vétel időszaka, majd az időszak végén megszüntetjük azt (visszavezetjük, feloldjuk).",
+        "Az elszámolás, képzés gyakoriságát a számviteli törvény kötelezően előírja minden esetben.",
+        "Az időbeli elhatárolások képzése minden esetben év végén, (az üzleti év zárási munkálatai során) kötelező."
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Ha a vállalkozás helytelenül eljárva nem oldja fel a tárgyévet megelőző évben elhatárolt járó kamatbevételt, akkor a tárgyévben",
+      "valaszlehetosegek": [
+        "a vállalkozás tévesen nagyobb üzemi (üzleti) tevékenység eredményt mutat ki.",
+        "a vállalkozás tévesen kisebb üzemi (üzleti) tevékenység eredményt mutat ki.",
+        "a vállalkozás tévesen kisebb adózás előtti eredményt mutat ki.",
+        "a vállalkozás tévesen nagyobb pénzügyi műveletek eredményét mutat ki."
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Milyen időbeli elhatárolásként kell kimutatni a mérleg fordulónapja és a mérlegkészítés időpontja között vállalkozással szemben érvényesített kártérítési igényt, késedelmi kamatot, kártérítést, bírósági költséget?",
+      "valaszlehetosegek": [
+        "Aktív időbeli elhatárolásként kell",
+        "Aktív időbeli elhatárolásként lehet",
+        "Passzív időbeli elhatárolásként kell",
+        "Passzív időbeli elhatárolásként lehet"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Milyen időbeli elhatárolásként kell kimutatni a mérleggel lezárt üzleti évhez kapcsolódó, jóváhagyott, de kötelezettségként ki nem mutatott prémiumot, jutalmat és azok járulékait?",
+      "valaszlehetosegek": [
+        "Aktív időbeli elhatárolásként kell",
+        "Aktív időbeli elhatárolásként lehet",
+        "Passzív időbeli elhatárolásként kell",
+        "Passzív időbeli elhatárolásként lehet"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Melyik megállapítás igaz az aktív és passzív időbeli elhatárolások feloldásának hatására az adózás előtti eredményre?",
+      "valaszlehetosegek": [
+        "Az aktív időbeli elhatárolások feloldása csökkenti, a passzív időbeli elhatárolás feloldása növeli az adózás előtti eredményt",
+        "Az aktív időbeli elhatárolások feloldása növeli, a passzív időbeli elhatárolás feloldása csökkenti az adózás előtti eredményt",
+        "Az aktív időbeli elhatárolások és a passzív időbeli elhatárolások elszámolása egyaránt növeli az adózás előtti eredményt",
+        "Az aktív időbeli elhatárolások elszámolása csökkenti, a passzív időbeli elhatárolások elszámolása növeli az adózás előtti eredményt"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Ha a vállalkozás nem oldja fel a tárgyévet megelőző évben elhatárolt kamatráfordítást, akkor a tárgyévben",
+      "valaszlehetosegek": [
+        "a vállalkozás tévesen nagyobb üzemi (üzleti) tevékenység eredményt mutat ki",
+        "a vállalkozás tévesen kisebb adózás előtti eredményt mutat ki",
+        "a vállalkozás tévesen kisebb üzemi (üzleti) tevékenység eredményt mutat ki",
+        "a vállalkozás tévesen nagyobb pénzügyi műveletek eredményét mutat ki"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "A tartósan adott kölcsönökhöz kapcsolódó tárgyévre időarányosan járó kamatot hogyan kell elszámolni?",
+      "valaszlehetosegek": [
+        "egyéb bevételként",
+        "aktív időbeli elhatárolásként",
+        "az adott kölcsönt csökkentő tételként",
+        "passzív időbeli elhatárolásként"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "A vállalkozó felé december 5-én előre kiszámlázott, 3 havi (december, január, február) bérleti díj 270 000 Ft + 27% Áfa esetén mennyit kell kimutatni a költségek, ráfordítások passzív vagy aktív időbeli elhatárolásai között?",
+      "valaszlehetosegek": [
+        "90 000 Ft-ot kell kimutatni a költségek, ráfordítások passzív időbeli elhatárolásai között",
+        "180 000 Ft-ot kell kimutatni a költségek, ráfordítások passzív időbeli elhatárolásai között",
+        "90 000 Ft-ot kell kimutatni a költségek, ráfordítások aktív időbeli elhatárolásai között",
+        "180 000 Ft-ot kell kimutatni a költségek, ráfordítások aktív időbeli elhatárolásai között"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "A vállalkozás felé december 1-jén előre kiszámlázott, 3 havi bérleti díj 1 800 000 Ft + 27% Áfa esetén mennyit kell kimutatni az aktív vagy passzív időbeli elhatárolások között?",
+      "valaszlehetosegek": [
+        "600 000 Ft-ot kell kimutatni az aktív időbeli elhatárolásai között",
+        "600 000 Ft-ot kell kimutatni a passzív időbeli elhatárolásai között",
+        "1 200 000 Ft-ot kell kimutatni a passzív időbeli elhatárolásai között",
+        "1 200 000 Ft-ot kell kimutatni az aktív időbeli elhatárolásai között"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "A passzív időbeli elhatárolás feloldása hogyan hat az eredményre?",
+      "valaszlehetosegek": [
+        "minden esetben növeli az adózás előtti eredményt",
+        "növelheti a költségnemeket",
+        "minden esetben növeli az üzemi (üzleti) tevékenység vállalkozási eredményét",
+        "csökkentheti az üzemi (üzleti) tevékenység eredményt"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "A vállalkozó felé tárgyévet követő év január 5-én utólag kiszámlázták a bérbe vett irodahelyiség december havi bérleti díját, melynek a számlán szereplő összege 300 000 Ft + 27% Áfa. Válassza ki a helyes megoldást!",
+      "valaszlehetosegek": [
+        "300 000 Ft-ot kell kimutatni a költségek, ráfordítások passzív időbeli elhatárolásai között.",
+        "381 000 Ft-ot kell kimutatni a költségek, ráfordítások passzív időbeli elhatárolásai között.",
+        "381 000 Ft-ot kell kimutatni a költségek, ráfordítások aktív időbeli elhatárolásai között.",
+        "300 000 Ft-ot kell kimutatni a költségek, ráfordítások aktív időbeli elhatárolásai között."
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Egy igénybevett szolgáltatás számlázási időszaka december 10-től január 10-ig tart és a számla januárban érkezett meg 46 500 Ft + 27% Áfa értékben.",
+      "valaszlehetosegek": [
+        "A vállalkozás 15 000 Ft-ot mutatott ki a költségek, ráfordítások aktív időbeli elhatárolásai között.",
+        "A vállalkozás 31 500 Ft-ot mutatott ki a költségek, ráfordítások aktív időbeli elhatárolásai között.",
+        "A vállalkozás 15 000 Ft-ot mutatott ki a költségek, ráfordítások passzív időbeli elhatárolásai között.",
+        "A vállalkozás 31 500 Ft-ot mutatott ki a költségek, ráfordítások passzív időbeli elhatárolásai között."
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "A vállalkozó felé tárgyév december 5-én előre kiszámlázták a bérbe vett irodahelyiség 3 havi (tárgyév december, tárgyévet követő év január és február) bérleti díját, melynek a számlán szereplő összege 90 000 Ft + 27% Áfa. Válassza ki a helyes megoldást!",
+      "valaszlehetosegek": [
+        "30 000 Ft-ot kell kimutatni a költségek, ráfordítások passzív időbeli elhatárolásai között.",
+        "60 000 Ft-ot kell kimutatni a költségek, ráfordítások aktív időbeli elhatárolásai között.",
+        "60 000 Ft-ot kell kimutatni a költségek, ráfordítások passzív időbeli elhatárolásai között.",
+        "30 000 Ft-ot kell kimutatni a költségek, ráfordítások aktív időbeli elhatárolásai között."
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "A vállalkozó felé tárgyévet követő év január 5-én utólag kiszámlázták a bérbe vett irodahelyiség december havi bérleti díját, melynek a számlán szereplő összege 900 000 Ft + 27% Áfa. Válassza ki a helyes megoldást!",
+      "valaszlehetosegek": [
+        "1 143 000 Ft-ot kell kimutatni a költségek, ráfordítások passzív időbeli elhatárolásai között.",
+        "900 000 Ft-ot kell kimutatni a költségek, ráfordítások passzív időbeli elhatárolásai között.",
+        "1 143 000 Ft-ot kell kimutatni a költségek, ráfordítások aktív időbeli elhatárolásai között.",
+        "900 000 Ft-ot kell kimutatni a költségek, ráfordítások aktív időbeli elhatárolásai között."
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Egy igénybevett szolgáltatás számlázási időszaka december 10-től január 10-ig tart és a számla januárban érkezett meg 93 000 Ft + 27% áfa értékben.",
+      "valaszlehetosegek": [
+        "A vállalkozás 63 000 Ft-ot mutatott ki a költségek, ráfordítások passzív időbeli elhatárolásai között.",
+        "A vállalkozás 30 000 Ft-ot mutatott ki a költségek, ráfordítások aktív időbeli elhatárolásai között.",
+        "A vállalkozás 63 000 Ft-ot mutatott ki a költségek, ráfordítások aktív időbeli elhatárolásai között.",
+        "A vállalkozás 30 000 Ft-ot mutatott ki a költségek, ráfordítások passzív időbeli elhatárolásai között."
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "A vállalkozás felé tárgyév december 1-jén előre kiszámlázta a Bérbeadó Kft. a vállalkozás által bérelt irodahelyiség 3 havi (december, január, február) bérleti díját, melynek a számlán szereplő összege 600 000 Ft + 27% Áfa. Válassza ki a helyes megoldást!",
+      "valaszlehetosegek": [
+        "200 000 Ft-ot kell kimutatni az aktív időbeli elhatárolásai között.",
+        "400 000 Ft-ot kell kimutatni az aktív időbeli elhatárolásai között.",
+        "200 000 Ft-ot kell kimutatni a passzív időbeli elhatárolásai között.",
+        "400 000 Ft-ot kell kimutatni a passzív időbeli elhatárolásai között."
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "A „FOLYTON-SZOLGÁLTATÓ” Zrt. üzletviteli tanácsadás címén nyújt folyamatosan szolgáltatást a megrendelő felé. A nyújtott szolgáltatás számlázási időszaka december 10-től január 10-ig tart a szerződés értelmében és a számla januárban lett kibocsátva 46 500 Ft + 27% áfa értékben.",
+      "valaszlehetosegek": [
+        "A vállalkozás 15 000 Ft-ot mutatott ki a bevételek aktív időbeli elhatárolásai között.",
+        "A vállalkozás 31 500 Ft-ot mutatott ki a bevételek aktív időbeli elhatárolásai között.",
+        "A vállalkozás 15 000 Ft-ot mutatott ki a bevételek passzív időbeli elhatárolásai között.",
+        "A vállalkozás 31 500 Ft-ot mutatott ki a bevételek passzív időbeli elhatárolásai között."
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Az aktív időbeli elhatárolás feloldása",
+      "valaszlehetosegek": [
+        "minden esetben csökkenti az üzemi (üzleti) tevékenység eredményét",
+        "növelheti az üzemi (üzleti) tevékenység eredményét",
+        "minden esetben csökkenti az adózás előtti eredményt",
+        "növelheti a pénzügyi műveletek eredményét"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "A vállalkozó tárgyévet követő év január 5-én utólag kiszámlázta a bérbe adott irodahelyiség tárgyév december havi bérleti díját, melynek a számlán szereplő összege 300 000 Ft + 27% Áfa. Válassza ki a helyes megoldást!",
+      "valaszlehetosegek": [
+        "300 000 Ft-ot kell kimutatni a bevételek passzív időbeli elhatárolásai között.",
+        "381 000 Ft-ot kell kimutatni a bevételek passzív időbeli elhatárolásai között.",
+        "300 000 Ft-ot kell kimutatni a bevételek aktív időbeli elhatárolásai között.",
+        "381 000 Ft-ot kell kimutatni a bevételek aktív időbeli elhatárolásai között."
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "A vállalkozó tárgyév november 5-én előre kiszámlázta a bérbe adott irodahelyiség 3 havi (tárgyév november, tárgyév december és tárgyévet követő év január) bérleti díját, melynek a számlán szereplő összege 120 000 Ft + 27% Áfa. Válassza ki a helyes megoldást!",
+      "valaszlehetosegek": [
+        "80 000 Ft-ot kell kimutatni a bevételek passzív időbeli elhatárolásai között.",
+        "40 000 Ft-ot kell kimutatni a bevételek aktív időbeli elhatárolásai között.",
+        "40 000 Ft-ot kell kimutatni a bevételek passzív időbeli elhatárolásai között.",
+        "80 000 Ft-ot kell kimutatni a bevételek aktív időbeli elhatárolásai között."
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "A vállalkozó tárgyév november 5-én előre kiszámlázta a bérbe adott irodahelyiség 3 havi (tárgyév november, tárgyév december és tárgyévet követő év január) bérleti díját, melynek a számlán szereplő összege 360 000 Ft + 27% Áfa. Válassza ki a helyes megoldást!",
+      "valaszlehetosegek": [
+        "120 000 Ft-ot kell kimutatni a bevételek passzív időbeli elhatárolásai között.",
+        "240 000 Ft-ot kell kimutatni a bevételek passzív időbeli elhatárolásai között.",
+        "120 000 Ft-ot kell kimutatni a bevételek aktív időbeli elhatárolásai között.",
+        "240 000 Ft-ot kell kimutatni a bevételek aktív időbeli elhatárolásai között."
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Válassza ki a hamis állítást!",
+      "valaszlehetosegek": [
+        "Az időbeli elhatárolásokról egyedi nyilvántartást kell vezetni.",
+        "Az egyedi nyilvántartásnak tartalmaznia kell, hogy az időbeli elhatárolás melyik vagyonelemhez kapcsolódik.",
+        "Az időbeli elhatárolások számítását olyan bizonylatokkal kell alátámasztani, amelyek az elhatárolások jogosságát, számszerű helyességét bizonyítani képesek.",
+        "Az időbeli elhatárolásokról csoportos nyilvántartást kell vezetni."
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "A devizában adott kölcsönök után a tárgyévre járó, de csak a következő évben esedékes kamatot",
+      "valaszlehetosegek": [
+        "a mérlegkészítéskori választott árfolyamon kell elhatárolni",
+        "a fordulónapi választott árfolyamon kell elhatárolni",
+        "a fordulónapi MNB árfolyamon kell elhatárolni",
+        "a fordulónapi választott kereskedelmi banki átlag árfolyamon kell elhatárolni"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "A devizahitelek tárgyévet terhelő, de csak a következő évben esedékes kamatát",
+      "valaszlehetosegek": [
+        "a mérlegkészítéskori választott árfolyamon kell elhatárolni",
+        "a fordulónapi MNB árfolyamon kell elhatárolni",
+        "a fordulónapi választott árfolyamon kell elhatárolni",
+        "a fordulónapi választott kereskedelmi banki átlag árfolyamon kell elhatárolni"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "A külföldi pénzértékre szóló passzív időbeli elhatárolásokat a mérlegben",
+      "valaszlehetosegek": [
+        "a fordulónapi választott árfolyamon kell kimutatni",
+        "a mérlegkészítéskori választott árfolyamon kell kimutatni",
+        "a fordulónapi MNB árfolyamon kell kimutatni",
+        "a fordulónapi választott kereskedelmi banki átlag árfolyamon kell kimutatni"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "A külföldi pénzértékre szóló aktív időbeli elhatárolásokat a mérlegben",
+      "valaszlehetosegek": [
+        "a mérlegkészítéskori választott árfolyamon kell kimutatni",
+        "a fordulónapi MNB árfolyamon kell kimutatni",
+        "a fordulónapi választott kereskedelmi banki átlag árfolyamon kell kimutatni",
+        "a fordulónapi választott árfolyamon kell kimutatni"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Válassza ki a helyes állítást!",
+      "valaszlehetosegek": [
+        "Az üzleti jelentésnek tartalmaznia kell: a bevételek aktív időbeli elhatárolásának a jelentősebb összegeit, azok időbeli alakulását.",
+        "A kiegészítő mellékletnek tartalmaznia kell: a költségek, ráfordítások aktív időbeli elhatárolásának a jelentősebb összegeit, azok időbeli alakulását.",
+        "A kiegészítő mellékletnek tartalmaznia kell: a bevételek passzív időbeli elhatárolásának a jelentősebb összegeit, azok időbeli alakulását.",
+        "A kiegészítő mellékletnek tartalmaznia kell: a költségek, ráfordítások passzív időbeli elhatárolásának a jelentősebb összegeit, azok időbeli alakulását."
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Melyik állítás hamis?",
+      "valaszlehetosegek": [
+        "A szállítmányozó vállalkozásnál a szállítóeszközöket a műszaki gépek, berendezések, járművek mérlegsoron kell kimutatni.",
+        "A könyvviteli szolgáltatást végző vállalkozásnál a számítógépeket a műszaki gépek, berendezések, járművek mérlegsoron kell kimutatni.",
+        "Az oktatási tevékenységet folytató vállalkozásnál a projektorokat a műszaki gépek, berendezések, járművek mérlegsoron kell kimutatni.",
+        "A termelő vállalkozásoknál a termelőgépeket az egyéb berendezések, felszerelések, járművek mérlegsoron kell kimutatni."
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Melyik állítás igaz?",
+      "valaszlehetosegek": [
+        "A lisztet a mérlegben minden esetben a készletek mérlegcsoportban az anyagok között kell kimutatni.",
+        "A hajfestéket a mérlegben minden esetben a készletek mérlegcsoportban az áruk között kell kimutatni.",
+        "A személygépkocsit a mérlegben lehet, hogy a készletek között kell kimutatni.",
+        "A hajlakkot a mérlegben minden esetben a készletek mérlegcsoportban az áruk között kell kimutatni."
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! Az ingatlanok és a kapcsolódó vagyoni értékű jogok mérlegsoron kell kimutatni",
+      "valaszlehetosegek": [
+        "a termelő gépek bérleti jogát",
+        "a találmányt",
+        "a szoftverek használati jogát",
+        "az épületek bérleti jogát"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! Nem a tárgyi eszközök között kell kimutatni:",
+      "valaszlehetosegek": [
+        "az ingatlanhoz kapcsolódó vagyoni értékű jogokat és a tenyészállatokat",
+        "az üzembe nem helyezett beruházásokat",
+        "a beruházásokra adott előlegeket",
+        "az egy éven belül elhasználódó anyagi eszközöket"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Melyik a helyes válasz? Nem a forgóeszközök között kell a mérlegben kimutatni",
+      "valaszlehetosegek": [
+        "a kávéfőző könyv szerinti értékét.",
+        "az íróasztal könyv szerinti értékét.",
+        "a személygépjármű könyv szerinti értékét.",
+        "a rendelkezésre álló információk alapján nem lehet eldönteni."
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Melyik állítás igaz?",
+      "valaszlehetosegek": [
+        "A gépjárműveket a mérlegben minden esetben a tárgyi eszközök között kell kimutatni.",
+        "A gépjárműveket a mérlegben lehet, hogy a készletek között kell kimutatni.",
+        "A kötvényeket a mérlegben az értékpapírok mérlegcsoportban kell kimutatni.",
+        "A részvényeket a mérlegben az értékpapírok mérlegcsoportban kell kimutatni."
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! Nem a tárgyi eszközök között kell a mérlegben kimutatni:",
+      "valaszlehetosegek": [
+        "a könyvespolcot",
+        "a kanapét",
+        "a gépjárművet",
+        "nem lehet eldönteni"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Melyik állítás hamis?",
+      "valaszlehetosegek": [
+        "A szállítói tartozás bekerülési értéke a bejövő számla előzetesen felszámított általános forgalmi adót tartalmazó végösszege.",
+        "A vevőkövetelés bekerülési értéke a kimenő számla előzetesen felszámított általános forgalmi adót tartalmazó végösszege.",
+        "A le nem vonható előzetesen felszámított általános forgalmi adó nem része a tárgyi eszköz beszerzési értékének.",
+        "A levonható előzetesen felszámított általános forgalmi adó nem része a tárgyi eszköz beszerzési értékének."
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! A beruházási hitel aktiválásig felmerült hitelkamat",
+      "valaszlehetosegek": [
+        "növeli a kapcsolódó tárgyi eszközök bekerülési értékét",
+        "a bekerülési érték része lesz, ha meghaladja a vállalkozás számviteli politikájában kijelölt jelentős értékhatárt",
+        "csak abban az esetben növeli a bekerülési értéket, ha az aktiválásig átutalásra került",
+        "növeli a bekerülési értéket, az aktiválás utáni tárgyévi hitelkamat pedig csökkenti az üzemi (üzleti) tevékenység eredményét"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! A tárgyi eszköz beszerzéssel kapcsolatos szállítói tartozás kiegyenlítésekor keletkezett árfolyamnyereség",
+      "valaszlehetosegek": [
+        "csökkenti a tárgyi eszköz bekerülési értékét, ha az eszközt a kiegyenlítésig nem vették rendeltetésszerűen használatba.",
+        "minden esetben csökkenti a tárgyi eszközök bekerülési értékét.",
+        "növeli a tárgyi eszköz bekerülési értékét, ha az eszközt a kiegyenlítésig nem vették rendeltetésszerűen használatba",
+        "minden esetben növeli a tárgyi eszközök bekerülési értékét."
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Melyik állítás hamis?",
+      "valaszlehetosegek": [
+        "A tárgyi eszközök bekerülési értéke vásárláskor csak a vételár.",
+        "Az apportba kapott tárgyi eszközök bekerülési értéke a létesítő okiratban meghatározott érték.",
+        "A térítés nélkül kapott tárgyi eszközök bekerülési értéke a piaci érték.",
+        "A saját tevékenységben előállított tárgyi eszköz bekerülési értéke az előállítási költség."
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! Egy részben hitelből finanszírozott importált gépsor bekerülési értékét mely tényezők nem befolyásolják:",
+      "valaszlehetosegek": [
+        "Vámköltség",
+        "Kapott engedmény (számlázott)",
+        "Az üzembe helyezést követően vásárolt tartalék alkatrészek értéke",
+        "Az üzembe helyezésig felmerült hitelkamatok"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Egyéb berendezés beszerzése során felmerült tételek közül melyik nem része a bekerülési értéknek?",
+      "valaszlehetosegek": [
+        "szállítási költség",
+        "üzembe helyezésig vásárolt tartozékok számla szerinti vételára",
+        "üzembe helyezést követő időszakhoz kapcsolódó biztosítási díj",
+        "üzembe helyezésig felmerült biztosítási díj"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Műszaki gép beszerzése során felmerült tételek közül melyik nem része a bekerülési értéknek?",
+      "valaszlehetosegek": [
+        "aktiválásig felmerült biztosítási díj",
+        "adóhatóság által kivetett import áfa",
+        "import beszerzés vételára számla alapján",
+        "üzembe helyezést megelőzően vásárolt tartozékok számla szerinti vételára"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Melyik állítás igaz?",
+      "valaszlehetosegek": [
+        "Az eszközök bekerülési értékét bruttó értéknek nevezik.",
+        "A tárgyi eszközök bruttó értéke tartalmazza a beszerzéshez kapcsolódó levonható előzetesen felszámított általános forgalmi adót.",
+        "A tárgyi eszközök bekerülési értékét bruttó értéknek nevezik.",
+        "A tárgyi eszközök bekerülési értéke vásárláskor a piaci érték."
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! A tárgyi eszköz beszerzéssel kapcsolatos szállítói tartozás kiegyenlítésekor keletkezett árfolyamveszteség",
+      "valaszlehetosegek": [
+        "minden esetben növeli a tárgyi eszközök bekerülési értékét.",
+        "növeli a tárgyi eszköz bekerülési értékét, ha az eszközt a kiegyenlítésig nem vették rendeltetésszerűen használatba.",
+        "csökkenti a tárgyi eszköz bekerülési értékét, ha az eszközt a kiegyenlítésig nem vették rendeltetésszerűen használatba.",
+        "minden esetben csökkenti a tárgyi eszközök bekerülési értékét."
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Gyártó gépsor beszerzése során felmerült tételek közül mely tételek nem csökkentik a bekerülési értéket?",
+      "valaszlehetosegek": [
+        "utólag kért és kapott engedmény",
+        "kapott támogatás",
+        "próbaüzem során elkészült termékek értéke",
+        "beszerzéssel kapcsolatos szállítói tartozás kiegyenlítésekor keletkezett árfolyamnyereség az üzembe helyezésig"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! Egy termelőgép beszerzésével kapcsolatban felmerült közvetlen „tételeket” (pl.: szállítás)",
+      "valaszlehetosegek": [
+        "minden esetben az 1. Beruházás számlára kell könyvelni",
+        "ha a számviteli politikában „rögzítették\", akkor egyből az 1. Egyéb berendezések számlára is el lehet könyvelni",
+        "ha a számviteli politikában „rögzítették\", akkor egyből az 1. Műszaki gépek számlára is el lehet könyvelni",
+        "nem kell könyvelni"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Az alábbi tételek közül válassza ki azt, amely nem tartozik a beruházás bekerülési értékébe!",
+      "valaszlehetosegek": [
+        "Az eszköz üzembe helyezéséig terjedő időszakra elszámolt biztosítási díj.",
+        "A beruházáshoz közvetlenül kapcsolódó devizakötelezettségnek az üzembe helyezésig elszámolt árfolyamkülönbözete.",
+        "Az eszköz üzemeltetéséhez szükséges tartozékok üzembe helyezést követően számlázott értéke.",
+        "A beruházás tervezés, előkészítés, lebonyolítás közvetlen költségei."
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Az alábbi tételek közül melyik nem csökkenti a bekerülési értéket?",
+      "valaszlehetosegek": [
+        "A próbaüzemeltetés során előállított, raktárra vett, értékesített termék, teljesített szolgáltatás előállítási költsége.",
+        "A vételár kiegyenlítésekor keletkezett árfolyamveszteség az üzembe helyezésig",
+        "A beruházásra adott előleg, a beruházásra elkülönített pénzeszköz után kapott kamat összege maximum az üzembe helyezésig felmerült hitelkamat összegéig.",
+        "A vételárból utólag kapott engedmény számlázott összege."
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! Az aktivált saját teljesítmények értéke:",
+      "valaszlehetosegek": [
+        "A saját előállítású eszközöknek az üzleti évben aktivált értéke és a saját termelésű készletek állományváltozása együttes összege.",
+        "A saját vállalkozásban végzett és az eszközök között állományba vett saját teljesítmények közvetlen önköltségen számított értéke.",
+        "A saját termelésű készletek üzleti év végi záróállományának és az üzleti év elejei nyitóállományának különbözete.",
+        "A vásárolt és saját termelésű készletek állományváltozása és a saját előállítású eszközök aktivált értékének összege."
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Melyik állítás igaz?",
+      "valaszlehetosegek": [
+        "A tárgyi eszközök bekerülési értéke saját előállításkor a vételár.",
+        "A saját tevékenységben előállított tárgyi eszközök bekerülési értéke a piaci érték.",
+        "A térítés nélkül kapott tárgyi eszközök bekerülési értéke a vételár.",
+        "A saját tevékenységben előállított tárgyi eszköz bekerülési értéke az előállítási költség."
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Melyik állítás hamis? Az előállítási költségek közé tartoznak azok a tételek, amelyek",
+      "valaszlehetosegek": [
+        "az eszköz előállítása, rendeltetésének megváltoztatása, üzembe helyezése, bővítése, átalakítása, állagának helyreállítása során közvetlenül keletkeznek,",
+        "az eszközre megfelelő mutatók, jellemzők segítségével elszámolhatók,",
+        "az előállítással bizonyíthatóan szoros kapcsolatban állnak.",
+        "az előállítás során felmerült közvetett költségek."
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Válassza ki, hogy mely tételt/tételeket kell anyagköltségként elszámolni!",
+      "valaszlehetosegek": [
+        "Belföldi utazási költség",
+        "Értékesített anyagok könyv szerinti értéke",
+        "Felhasznált alapanyagok értéke",
+        "Könyvviteli szolgáltatás értéke"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Válassza ki a helyes megoldást! Az értékesített tárgyi eszközök könyv szerinti értéke:",
+      "valaszlehetosegek": [
+        "költség",
+        "ELÁBÉ",
+        "egyéb ráfordítás",
+        "egyik sem"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Válassza ki a helyes megoldást! Az értékesített tárgyi eszközök áfa nélküli eladási ára:",
+      "valaszlehetosegek": [
+        "árbevétel",
+        "egyéb bevétel",
+        "pénzügyi műveletek bevétele",
+        "egyik sem"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! Az értékesített egyéb berendezés",
+      "valaszlehetosegek": [
+        "könyv szerinti értéke a pénzügyi műveletek ráfordításai között jelenik meg az eredménykimutatásban",
+        "ÁFA nélküli eladási ára az árbevételek között jelenik meg az eredménykimutatásban",
+        "ÁFA nélküli eladási árának és könyv szerinti értékének különbsége az üzemi (üzleti) tevékenység eredményét igen, de az adózás előtti eredményt nem változtatja",
+        "ÁFA nélküli eladási árának és könyv szerinti értékének különbsége növelheti és csökkentheti is az üzemi (üzleti) tevékenység eredményét"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Egy tárgyi eszköz bekerülési értéke 80 000 EFt, maradványértéke 5 000 EFt, hasznos élettartama 5 év, aktiválása tárgyév június 1-jén történt, leírása lineáris módszerrel történik. Melyik állítás hamis?",
+      "valaszlehetosegek": [
+        "Az eszköz lineáris leírási kulcsa 20 %",
+        "Az értékcsökkenés alapja (amortizálandó érték) = 80 000 EFt – 5 000 EFt = 75 000 EFt",
+        "Az eszköz nettó értéke a fordulónapon 65 000 EFt",
+        "Az eszköz tárgyévet követő évi értékcsökkenése 15 000 EFt"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Válassza ki a helyes megoldást! A terven felüli értékcsökkenés:",
+      "valaszlehetosegek": [
+        "költség",
+        "egyéb ráfordítás",
+        "pénzügyi műveletek ráfordítás",
+        "egyik sem"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Egy tárgyi eszköz bekerülési értéke 20 000 EFt, maradványértéke 2 000 EFt, hasznos élettartama 4 év, aktiválása tárgyév október 1-jén történt, leírása lineáris módszerrel történik. Melyik állítás hamis?",
+      "valaszlehetosegek": [
+        "Az eszköz könyv szerinti értéke 2 évvel az üzembe helyezést követően 11 000 EFt",
+        "Az eszköz mérlegértéke a tárgyévben 18 875 EFt",
+        "Az eszköz könyv szerinti értéke 1 évvel az üzembe helyezést követően 13 500 EFt",
+        "Az eszköz halmozott értékcsökkenése a tárgyévet követő év fordulónapján 5 625 EFt"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! Egy tárgyi eszköz piaci értékre történő értékelése során elszámolt terven felüli értékcsökkenés:",
+      "valaszlehetosegek": [
+        "nem befolyásolja a vállalkozás üzemi/üzleti eredményét",
+        "az egyéb ráfordításokat növeli, így az üzemi/üzleti eredményt csökkenti",
+        "az egyéb ráfordításokat csökkenti, így az üzemi/üzleti eredményt növeli",
+        "az egyéb bevételeket csökkenti, így az üzemi/üzleti eredményt csökkenti"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! A deviza",
+      "valaszlehetosegek": [
+        "más ország törvényes fizetőeszköze",
+        "más ország törvényes fizetőeszközére irányuló követelés",
+        "fizikai megjelenési formája a bankjegy és az érme",
+        "tárolása a házi pénztárban (páncélszekrény, páncélkazetta stb.) történik"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! A pénzeszközök megjelenési forma szerinti csoportosítása az alábbi:",
+      "valaszlehetosegek": [
+        "Ft vagy devizabetét",
+        "Ft vagy valutapénztár",
+        "készpénz, pénzhelyettesítő eszközök, számlapénz",
+        "pénztárbizonylat, bankszámlakivonat"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! A valuta",
+      "valaszlehetosegek": [
+        "más ország törvényes fizetőeszköze",
+        "bankszámlán nyilvántartott fizetőeszköz",
+        "fizikai megjelenési formája nincs",
+        "tárolása felhő alapú szerveren történik"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "A bankbetétek fajtái közül válassza ki a helytelen megnevezést!",
+      "valaszlehetosegek": [
+        "elszámolási betétszámla",
+        "valutabetét számla",
+        "elkülönített betétszámla",
+        "devizabetét számla"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Válassza ki a hamis állítást! A pénzeszközök olyan vagyonrészek,",
+      "valaszlehetosegek": [
+        "amelyek tartósan le nem kötöttek.",
+        "csak forintban jelennek meg.",
+        "fizetési eszközként felhasználhatók.",
+        "az eszközök cseréjét teszik lehetővé."
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Válassza ki a helyes állítást! A pénztárban történő pénzmozgások alapbizonylata",
+      "valaszlehetosegek": [
+        "a terhelési és jóváírási értesítés.",
+        "a bevételi pénztárbizonylat és a jóváírási értesítés.",
+        "a bevételi pénztárbizonylat és a kiadási pénztárbizonylat.",
+        "a kiadási pénztárbizonylat és a terhelési értesítés."
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! A pénzeszközök értékvesztésének visszaírása a(z)",
+      "valaszlehetosegek": [
+        "egyéb ráfordításokat csökkentő tételek",
+        "egyéb bevételek",
+        "pénzügyi műveletek bevételei",
+        "pénzügyi műveletek ráfordításait csökkentő tételek közé történik"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Válassza ki a hamis megfogalmazást! A pénzeszközök értékvesztésének feltételei",
+      "valaszlehetosegek": [
+        "egyedi minősítés",
+        "a mérlegkészítéskori információk figyelembe vétele",
+        "a várható nyereség jellegű különbözet összegében történő kimutatás",
+        "a tartósság és jelentőség kritériumának teljesülése"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! A pénzeszközök értékvesztésének könyvviteli elszámolása a(z)",
+      "valaszlehetosegek": [
+        "egyéb ráfordítások",
+        "pénzügyi műveletek ráfordításai",
+        "igénybe vett szolgáltatások",
+        "egyéb szolgáltatások közé történik"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Válassza ki a helytelen állítást! A pénzeszközök aktiválása a jogszerűen követelhető összegben az alábbiak szerint történik:",
+      "valaszlehetosegek": [
+        "Forintban nyilvántartott pénzeszközöknél a befolyt forintértéken aktiválunk.",
+        "Devizás/valutás pénzeszközök esetén választott árfolyamon történik az aktiválás.",
+        "Valuta, deviza forintért történő vásárlásakor vételi árfolyamon aktiválunk.",
+        "Valuta, deviza forintért történő vásárlása esetén eladási árfolyamon aktiválunk."
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! A pénzeszközök értékvesztésének visszaírására jellemző, hogy",
+      "valaszlehetosegek": [
+        "csoportos minősítéssel történik",
+        "a fordulónapi információk alapján számolható el",
+        "akkor számolható el, ha a várhatóan megtérülő érték jelentősen alacsonyabb a könyv szerinti értéknél",
+        "maximum a korábbi értékvesztés összegében számolható el"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! A követelések bekerülési értékét növelő módosító tételek",
+      "valaszlehetosegek": [
+        "utólag felszámított felár",
+        "értékvesztés",
+        "behajthatatlan követelés",
+        "utólag számlahelyesbítéssel adott engedmény"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! A követelések bekerülési értékét csökkentő tételek",
+      "valaszlehetosegek": [
+        "nem realizált árfolyamnyereség",
+        "értékvesztés visszaírása",
+        "utólag felszámított felár",
+        "pénzügyi rendezés"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! A követelések mérlegcsoport elemei",
+      "valaszlehetosegek": [
+        "készletre adott előlegek",
+        "jegyzett, de még be nem fizetett tőke",
+        "egyéb követelések",
+        "egyéb tartósan adott kölcsönök"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "A követelések néhány jellemzője közül válassza ki a hamis állítást! A követelések…",
+      "valaszlehetosegek": [
+        "szállítási, vállalkozási, szolgáltatási vagy egyéb szerződésekből jogszerűen eredő elismert tartozások",
+        "pénzértékben kifejezett fizetési igények",
+        "a gazdálkodó által már teljesített termékértékesítéshez, szolgáltatás nyújtásához kapcsolódnak",
+        "kimutatása a másik fél által elismert, elfogadott összegben történik"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! A követelések bekerülési értéke",
+      "valaszlehetosegek": [
+        "nettó, azaz Áfa-val növelt összeg.",
+        "a fizetendő Áfa összegét nem tartalmazhatja.",
+        "a jogszerűen követelhető összeg.",
+        "a másik fél által el nem ismert összeg."
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! Ha a külföldi vevőkövetelések pénzügyi rendezéskori árfolyama kisebb a könyv szerinti árfolyamnál",
+      "valaszlehetosegek": [
+        "nem realizált árfolyamveszteség képződik.",
+        "realizált árfolyamveszteség képződik.",
+        "nem realizált árfolyamnyereség képződik.",
+        "realizált árfolyamnyereség képződik."
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! Külföldi vevőkövetelések pénzügyi rendezésekor",
+      "valaszlehetosegek": [
+        "vételi árfolyamon kell értékelni, ha Ft-ban történik a jóváírás.",
+        "vételi árfolyamon kell értékelni, ha devizában történik a jóváírás.",
+        "eladási árfolyamon kell értékelni, ha devizában történik a jóváírás.",
+        "választott árfolyamon kell értékelni, ha Ft-ban történik a jóváírás."
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! A választható árfolyam meghatározása",
+      "valaszlehetosegek": [
+        "a számlarendben történik.",
+        "az üzleti jelentésben történik.",
+        "a számviteli politikában történik.",
+        "az üzleti tervben történik."
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! A németországi külföldi vevőkövetelések bekerülési értéke az euróban számlázott érték és a",
+      "valaszlehetosegek": [
+        "teljesítéskori vételi árfolyam",
+        "számlázáskor érvényes eladási árfolyam",
+        "számlázáskor érvényes szabadpiaci árfolyam",
+        "teljesítéskori választott árfolyam szorzataként állapítható meg"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! A külföldi pénzértékre szóló eszközök és kötelezettségek év végi értékelésére jellemző",
+      "valaszlehetosegek": [
+        "kötelező átértékelni a mérlegkészítéskori választott árfolyamra.",
+        "kötelező átértékelni a fordulónapi választott árfolyamra.",
+        "nem kötelező átértékelni a fordulónapi választott árfolyamra.",
+        "nem kötelező átértékelni a mérlegkészítéskori választott árfolyamra."
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! Az év végi értékeléshez kapcsolódó összevont árfolyamnyereség",
+      "valaszlehetosegek": [
+        "az üzemi (üzleti) tevékenység eredményét csökkenti.",
+        "a pénzügyi műveletek eredményét növeli.",
+        "nincs eredményhatása.",
+        "az adózás előtti eredményt csökkenti."
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! A követelések értékvesztésének könyvviteli elszámolása",
+      "valaszlehetosegek": [
+        "anyagjellegű ráfordítás",
+        "egyéb ráfordítás",
+        "értékcsökkenési leírás",
+        "pénzügyi művelet ráfordítása"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! A vevőnként, az adósonként kisösszegű követelések könyvvitelben elkülönített csoportjára az értékvesztés",
+      "valaszlehetosegek": [
+        "ezen követelések nyilvántartásba vételi értékének százalékában is meghatározható.",
+        "pénzügyi művelet ráfordításaként kerül elszámolásra.",
+        "anyagjellegű ráfordításként kerül elszámolásra.",
+        "egyéb bevételként kerül elszámolásra."
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "A követelések értékvesztésnek a visszaírására nem igaz, hogy",
+      "valaszlehetosegek": [
+        "a követelés várhatóan megtérülő összege jelentősen meghaladja a könyv szerinti értéket",
+        "könyvviteli elszámolása egyéb bevétel",
+        "maximum az értékvesztés összege írható vissza",
+        "a pénzügyi műveletek ráfordítását csökkenti"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! Nem tartozik az egyéb követelések közé",
+      "valaszlehetosegek": [
+        "munkavállalóval szembeni követelések (pl. fizetési előleg)",
+        "fizetendő adók",
+        "igényelt, de még ne teljesített támogatások",
+        "rövid lejáratra adott kölcsön"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! Követelések értékvesztésének feltétele, hogy",
+      "valaszlehetosegek": [
+        "a várhatóan megtérülő összeg tartósan nagyobb, mint a könyv szerinti érték",
+        "a várhatóan megtérülő összeg tartósan és jelentősen nagyobb, mint a könyv szerinti érték",
+        "a várhatóan megtérülő összeg tartósan alacsonyabb, mint a könyv szerinti érték",
+        "a várhatóan megtérülő összeg tartósan és jelentősen alacsonyabb, mint a könyv szerinti érték"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! A szerződésben meghatározott fizetési határidőn (esedékességen) belül történt pénzügyi rendezés esetén adott, nem számlázott – engedmény összege",
+      "valaszlehetosegek": [
+        "növeli a pénzügyi műveletek ráfordításait.",
+        "nem érinti az eredményt.",
+        "növeli az egyéb ráfordításokat.",
+        "csökkenti az üzemi (üzleti) tevékenység eredményét."
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! A konkrét termékértékesítéshez, szolgáltatásnyújtáshoz kapcsolódóan számlahelyesbítéssel adott engedmény",
+      "valaszlehetosegek": [
+        "csökkenti az árbevételt.",
+        "növeli az egyéb ráfordítást.",
+        "csökkenti a pénzügyi műveletek eredményét.",
+        "nem érinti az eredményt."
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "A behajthatatlan követelés jellemzői közül válasszuk ki a hamis állítást!",
+      "valaszlehetosegek": [
+        "Elszámolása egyéb bevételként történik.",
+        "Bíróság előtt érvényesíteni nem lehet.",
+        "Az adós nem lelhető fel, a megadott címen nem található és a felkutatása „igazoltan” nem járt eredménnyel.",
+        "A hatályos jogszabályok alapján elévült."
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! A konkrét termékértékesítéshez, szolgáltatásnyújtáshoz nem kapcsolódóan adott nagyvevői engedmény",
+      "valaszlehetosegek": [
+        "csökkenti az árbevételt.",
+        "egyéb ráfordításként csökkenti az üzemi (üzleti) tevékenység eredményét.",
+        "csökkenti a pénzügyi műveletek eredményét.",
+        "nem érinti az eredményt."
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Egészítse ki a mondatot úgy, hogy az állítás igaz legyen! Ha a mérlegkészítés időszakában kiderül, hogy a teljesítés meghiúsul, a vevőktől kapott előleget át kell sorolni … közé.",
+      "valaszlehetosegek": [
+        "az egyéb rövid lejáratú kötelezettségek",
+        "az egyéb követelések",
+        "az egyéb hosszú lejáratú kötelezettségek",
+        "a céltartalékok"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Egészítse ki a mondatot úgy, hogy az állítás igaz legyen! A pénzügyi lízingügylet során a lízingbeadó (eladó) által számlázott, beruházásként állományba vett eszköz ellenértékét – csökkentve a tárgyévet követő évben esedékes tőketörlesztések összegével – … kell kimutatni a mérlegben.",
+      "valaszlehetosegek": [
+        "egyéb rövid lejáratú kötelezettségként",
+        "egyéb hosszú lejáratú kötelezettségként",
+        "egyéb céltartalékként",
+        "tőketartalékként"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! A szállítói köteletséget növeli",
+      "valaszlehetosegek": [
+        "az utólag számlahelyesbítéssel kapott engedmény",
+        "visszaküldések értéke számlahelyesbítés alapján",
+        "pénzügyi rendezés",
+        "az utólag számlahelyesbítéssel felszámított felár"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Egészítse ki a mondatot úgy, hogy az állítás igaz legyen! Pénzügyi lízing miatti kötelezettség a lízingügylet megkötésekor, a tárgyi eszköz (beruházás) beszerzésekor keletkezik (szerződés alapján); … történik az állományba vétel.",
+      "valaszlehetosegek": [
+        "a futamidő során fizetendő kamattal növelt összegének megfelelően",
+        "a futamidő során fizetendő kamat nélküli kötelezettség összegének megfelelően",
+        "a futamidő során fizetendő kamattal és egyéb járulékos költségekkel növelt összegének megfelelően",
+        "a futamidő során járó díjbevétellel figyelembevételével meghatározott kötelezettség összegének megfelelően"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! Nem az egyéb rövid lejáratú kötelezettségek között kell kimutatni",
+      "valaszlehetosegek": [
+        "a költségvetéssel, az önkormányzatokkal, a munkavállalókkal kapcsolatos elszámolásokat",
+        "a jogerős bírósági ítélet alapján fennálló kötelezettségeket",
+        "a pénzügyi lízingtartozás esedékes törlesztő részletét",
+        "az operatív lízingtartozás esedékes számla szerinti értékét"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Egészítse ki a mondatot úgy, hogy az állítás igaz legyen! A vevőtől kapott előleget a … összegben kell állományba venni, annak beérkezésekor; az adóköteles tevékenységet végző vállalkozásnak a megérkezett előleg összegéről … kell kiállítani.",
+      "valaszlehetosegek": [
+        "ténylegesen befolyt (jóváírt, átvett) – számlát",
+        "ténylegesen befolyt (jóváírt, átvett) áfát nem tartalmazó – számlát",
+        "ténylegesen befolyt (jóváírt, átvett) – számlát nem",
+        "ténylegesen befolyt (jóváírt, átvett) áfát nem tartalmazó – számlát nem"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! A kötelezettségek csoportosítása során",
+      "valaszlehetosegek": [
+        "éven belüli lejáratú kötelezettség rövid lejáratú kötelezettségnek minősül",
+        "1–3 éves lejáratú kötelezettség (középtáv) és a 3–5 éves lejáratú kötelezettség (közép–hosszútáv) rövid lejáratú kötelezettségnek minősül",
+        "az öt évnél hosszabb lejáratú kötelezettség kizárólag csak hátrasorolt kötelezettségként mutatható ki",
+        "kapcsolt vállalkozással szembeni kötelezettség csak hátrasorolt kötelezettségként mutatható ki"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Egészítse ki a mondatot úgy, hogy az állítás igaz legyen! Kötelezettségek azok a szállítási, vállalkozási, szolgáltatási és egyéb szerződésekből jogszerűen eredő, pénzértékben kifejezett elismert …, amelyek a szállító, a vállalkozó, a szolgáltató, a hitelező, a kölcsönt nyújtó által már teljesített, a vállalkozó által … szállításhoz, szolgáltatáshoz, pénznyújtáshoz kapcsolódnak.",
+      "valaszlehetosegek": [
+        "követelések, el nem fogadott (el nem ismert)",
+        "tartozások, elfogadott (elismert)",
+        "pénzügyileg rendezett tartozások, elfogadott (elismert)",
+        "pénzügyileg még nem rendezett tartozások, még nem teljesített"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Egészítse ki a mondatot úgy, hogy az állítás igaz legyen! A hosszú lejáratra kapott kölcsönök mérlegsoron jelennek meg a nem hitelintézettől (más vállalkozótól, magánszemélytől) kölcsön kapott összegek, melyek a szerződés alapján a következő évben …",
+      "valaszlehetosegek": [
+        "csak részben esedékesek",
+        "teljes összegükben esedékesek",
+        "deviza alapúra kerülnek átváltásra",
+        "még nem esedékesek"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Egészítse ki a mondatot úgy, hogy az állítás igaz legyen! Pénzügyi lízing olyan tevékenység, amelynek során a lízingbeadó … tulajdonjogát, illetve vagyoni értékű jogot a lízingbevevő megbízása szerint abból a célból szerzi meg, hogy azt a lízingbevevő … oly módon, hogy az a … könyveiben kerül kimutatásra.",
+      "valaszlehetosegek": [
+        "ingó dolog – határozatlan idejű használatába adja – lízingbevevő",
+        "ingatlan vagy ingó dolog – határozatlan idejű használatába adja, lízingbevevő",
+        "ingatlan vagy ingó dolog – határozott idejű használatába adja – lízingbeadó",
+        "ingatlan vagy ingó dolog – határozott idejű használatába adja – lízingbevevő"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! Nem a rövid lejáratú kötelezettségek közé tartozik általában",
+      "valaszlehetosegek": [
+        "a vevőtől kapott előleg, az áruszállításból és szolgáltatás teljesítéséből származó kötelezettség",
+        "a váltótartozás, a fizetendő osztalék, részesedés, kamatozó részvény utáni kamat",
+        "a még nem teljesített költségvetési kiutalási igény",
+        "az adófizetési kötelezettség"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Egészítse ki a mondatot úgy, hogy az állítás igaz legyen! A vállalkozó részére a vevő által a teljesítést megelőzően átutalt (átadott) pénzösszeget … kell nyilvántartani a szerződés szerinti teljesítést követő elszámolás időpontjáig, vagy a teljesítés meghiúsulása esetén az előleg visszautalásáig.",
+      "valaszlehetosegek": [
+        "az áfával csökkentett ténylegesen befolyt összegben",
+        "az áfával növelt ténylegesen befolyt összegben",
+        "a ténylegesen befolyt összegben",
+        "a várhatóan (30 napon belül) beérkező összegben"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Egészítse ki a mondatot úgy, hogy az állítás igaz legyen! Amennyiben a vállalkozásnál az üzleti év megegyezik a naptári évvel, az október elsején 14 havi futamidőre felvett hitel … kerül a mérlegbe.",
+      "valaszlehetosegek": [
+        "rövid lejáratú kötelezettségként",
+        "hosszú lejáratú kötelezettségként",
+        "eredményt csökkentő tételként",
+        "tőketartalékként"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Egészítse ki a mondatot úgy, hogy az állítás igaz legyen! A felvett hitelekhez, kapott kölcsönökhöz kapcsolódó tárgyévet időarányosan terhelő kamatot … kell elszámolni.",
+      "valaszlehetosegek": [
+        "a kötelezettséget csökkentő tételként",
+        "a pénzügyi műveletek ráfordításaként",
+        "egyéb ráfordításként",
+        "igénybe vett szolgáltatásként"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Egészítse ki a mondatot úgy, hogy az állítás igaz legyen! A rövid lejáratú hitelek után fizetett kamatot …..-ként kell elszámolni.",
+      "valaszlehetosegek": [
+        "egyéb szolgáltatások értéke",
+        "pénzügyi műveletek ráfordítása",
+        "egyéb ráfordítás",
+        "igénybevett szolgáltatások értéke"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Egészítse ki a mondatot úgy, hogy az állítás igaz legyen! A kötelezettség elengedését ….. kell elszámolni.",
+      "valaszlehetosegek": [
+        "egyéb bevételként",
+        "egyéb ráfordításként",
+        "vevő követelésként",
+        "árbevételként"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! Nem a hosszú lejáratra kapott hitelek, kölcsönök analitikus nyilvántartásának tartalma",
+      "valaszlehetosegek": [
+        "hitelt, kölcsönt nyújtó neve, azonosító adatai",
+        "a hitel, kölcsönfelvétel időpontja, a hitel, kölcsön összege",
+        "a tőketörlesztés összege, időpontja, a kamatfizetés gyakorisága, esedékességeinek időpontja",
+        "a hitelből finanszírozott eszköz bekerülési értéke, tárgyévi értékcsökkenése"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Válassza ki a hamis állítást!",
+      "valaszlehetosegek": [
+        "Az eszközbeszerzés finanszírozása érdekében felvett hitelhez kapcsolódó, az üzembehelyezésig, raktárba történő beszállításig terjedő időszakot terhelő kamat része a bekerülési értéknek.",
+        "Elengedett kötelezettséget egyéb bevételként kell elszámolni.",
+        "A mérleg-összeállítást megelőzően az átsorolások főkönyvi elszámolása kötelező.",
+        "A mérleg összeállítása során a hosszú lejáratú kötelezettségek közül át kell sorolni a rövidlejáratú kötelezettségek közé a mérlegfordulónapot követően egy éven belül esedékes kötelezettségeket."
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Egészítse ki a mondatot úgy, hogy az állítás igaz legyen! Nem eszközbeszerzéshez kapcsolódóan felvett hitelek, kölcsönök kamatait, illetve eszközbeszerzéshez kapcsolódó hitelek, kölcsönök üzembe helyezést/a raktárba történő beszállítást követő időszakot terhelő kamatát …………..-ként kell elszámolni.",
+      "valaszlehetosegek": [
+        "Igénybe vett szolgáltatások értéke",
+        "Pénzügyi műveletek ráfordítása",
+        "Egyéb ráfordítás",
+        "Egyéb szolgáltatás értéke"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! Nem személyi jellegű egyéb kifizetésként kell elszámolni",
+      "valaszlehetosegek": [
+        "lakhatási költségtérítést",
+        "gépkocsi használathoz kapcsolódó költségtérítést",
+        "munkába járással kapcsolatos költségtérítést",
+        "jutalmat"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Egészítse ki a mondatot úgy, hogy az állítás igaz legyen! A bérszámfejtést …, az utolsó napra vonatkozóan kell elkészíteni, ez alapján azonos időponttal kell a bérfeladást könyvelni; a bérfizetés esedékessége ….",
+      "valaszlehetosegek": [
+        "a tárgyhó végén – a tárgyhót követő hónap",
+        "a tárgyhót követő hónap – a tárgyhó utolsó napja",
+        "a tárgyhó első napja – a tárgyhót követő hónap",
+        "a tárgyhó utolsó munkanapja – a tárgyhót követő hónap 20. napja"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! Nem béren kívüli juttatásnak minősül és nem személyi jellegű egyéb kifizetésként kell elszámolni",
+      "valaszlehetosegek": [
+        "üdülési hozzájárulást",
+        "helyi utazási bérletet",
+        "önkéntes egészség és nyugdíjpénztári tagdíj-hozzájárulást",
+        "prémiumot"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! A munkáltató költsége a bruttó kereset mellett",
+      "valaszlehetosegek": [
+        "munkáltatóval, vagy harmadik személlyel szemben fennálló tartozásokra teljesített levonások",
+        "jogszabályok alapján előírt levonások (szja előleg, egyéni nyugdíjjárulék)",
+        "jogszabályok alapján előírt levonások (egészségbiztosítási és munkaerő-piaci járulék)",
+        "jogszabályok alapján előírt adó (szocho, szakképzési hozzájárulás)"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! Nem a munkáltatót, kifizetőt terhelő bérjárulékok",
+      "valaszlehetosegek": [
+        "szociális hozzájárulási adó",
+        "személyi jövedelemadó",
+        "egészségügyi hozzájárulás, rehabilitációs hozzájárulás",
+        "szakképzési hozzájárulás"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! A 4. Jövedelem elszámolási számla egyenlege a bérfeladást követően tartalmazza",
+      "valaszlehetosegek": [
+        "a költségvetéssel szemben fennálló adó és járulékfizetési kötelezettséget",
+        "a helyi önkormányzat felé fizetendő kommunális adó összegét",
+        "a dolgozókkal szembeni nettó bér (járandóság) fizetési kötelezettségek",
+        "a munkáltató munkavállalóval szembeni követelését"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! Nem a kötelezettségek állományát növeli",
+      "valaszlehetosegek": [
+        "hitel felvétele, kölcsön felvétele, kötvénykibocsátás",
+        "vevőtől kapott előleg, kötelezettség eszközbeszerzésből, szolgáltatás igénybevételből",
+        "követelések termékértékesítésből, szolgáltatásnyújtásból, váltó elfogadás",
+        "pénzügyi lízing ügylet"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! Devizában fennálló szállítói kötelezettség pénzügyi rendezésekor keletkező realizált árfolyamnyereség elszámolása",
+      "valaszlehetosegek": [
+        "T 4. Szállítók – K 9. Pénzügyi műveletek bevétele",
+        "T 8. Pénzügyi műveletek egyéb ráfordítása – K 4. Szállítók",
+        "T 8. Pénzügyi műveletek ráfordítása – K 3. Elszámolási betétszámla",
+        "T 3. Elszámolási betétszámla – K 9. Pénzügyi műveletek bevétele"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! A szállítói kötelezettség kiegyenlítése során túlfizetésből adódóan keletkezett negatív egyenleget az adott partnerrel szembeni",
+      "valaszlehetosegek": [
+        "követelésként, a mérlegben egyéb követelésként kell bemutatni",
+        "negatív kötelezettségként, a szállítói kötelezettségek között kell kimutatni a mérlegben",
+        "követelésként, a mérlegben vevőkötelésként kell bemutatni",
+        "kötelezettségként, a szállítói kötelezettségek között kell kimutatni a mérlegben"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! Devizában fennálló szállítói kötelezettség pénzügyi rendezésekor keletkező realizált árfolyamveszteség elszámolása",
+      "valaszlehetosegek": [
+        "T 8. Pénzügyi műveletek ráfordítása – K 4. Szállítók",
+        "T 4. Szállítók – K 9. Pénzügyi műveletek bevétele",
+        "T 8. Pénzügyi műveletek ráfordítása – K 3. Elszámolási betétszámla",
+        "T 3. Elszámolási betétszámla – K 9. Pénzügyi műveletek bevétele"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! Utólag tárgyi eszköz beszerzéshez kapcsolódóan kapott, számlázott engedmény elszámolása",
+      "valaszlehetosegek": [
+        "T 4. Szállítók – K 1. Beruházások",
+        "T 4. Szállítók – K 2. Vásárolt készletek",
+        "T 4. Szállítók – K 4. Előzetesen felszámított áfa",
+        "T 4. Szállítók – K 5. Anyagköltség vagy T 4. Szállítók – K 8. ELÁBÉ"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! Az utólag kapott, nem számlázott engedmény elszámolása",
+      "valaszlehetosegek": [
+        "T 3. Elszámolási betétszámla vagy T 3. Egyéb követelések – K 9. Egyéb bevételek",
+        "T 4. Egyéb rövid lejáratú kötelezettségek – K 9. Egyéb bevételek",
+        "T 3. Egyéb követelések – K 9. Pénzügyi műveletek egyéb bevételei",
+        "T 3. Vevőkövetelések – K 9. Egyéb bevételek"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! Utólag szolgáltatásnyújtáshoz kapcsolódóan kapott, számlázott nettó engedmény elszámolása",
+      "valaszlehetosegek": [
+        "T 4. Szállítók – K 4. Előzetesen felszámított áfa",
+        "T 4. Szállítók – K 5. Anyagköltség vagy T 4. Szállítók – K 8. ELÁBÉ",
+        "T 4. Szállítók – K 1. Beruházások",
+        "T 4. Szállítók – K 5. Igénybe vett szolgáltatások költségei"
+      ],
+      "helyes_valasz": [3]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! A fizetési határidőn belüli pénzügyi teljesítésre tekintettel kapott engedményt (skontó) elszámolása",
+      "valaszlehetosegek": [
+        "T 4. Szállítók – K 9. Árbevétel",
+        "T 3. Elszámolási betétszámla – K 9. Egyéb bevételek",
+        "T 4. Szállítók – K 9. Pénzügyi műveletek bevételei",
+        "T 4. Szállítók – K T 3. Egyéb követelések"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Egészítse ki a mondatot úgy, hogy az állítás igaz legyen! A külföldi pénzértékre szóló kötelezettséget a bekerülés napjára, illetve a szerződés szerinti teljesítés napjára vonatkozó ... átszámított forintértéken kell a könyvviteli nyilvántartásba felvenni; függetlenül attól, hogy pénzbeérkezéshez kapcsolódik-e a kötelezettség vagy sem.",
+      "valaszlehetosegek": [
+        "választott deviza eladási árfolyamon",
+        "választott deviza vételi árfolyamon",
+        "választott devizaárfolyamon",
+        "választott valutaárfolyamon"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Válassza ki a helyes választ! Harmadik országból történő import beszerzéshez kapcsolódó elszámolások",
+      "valaszlehetosegek": [
+        "vám: T 1-2. Eszközök – K 4. Vámtartozások",
+        "vám: T 5. Egyéb szolgáltatások költsége – K 4. Vámtartozások",
+        "vám áfa: T 3. Különféle egyéb követelések – K 4. Fizetendő áfa",
+        "vám áfa: T 4. Előzetesen felszámított általános forgalmi adó – K 4. Vámtartozások"
+      ],
+      "helyes_valasz": [0]
+    },
+    {
+      "kerdes": "Egészítse ki a mondatot úgy, hogy az állítás igaz legyen! A fogyasztási adót, jövedéki adót, önellenőrzési, késedelmi pótlékot, mulasztási bírságot …-ként kell elszámolni.",
+      "valaszlehetosegek": [
+        "Egyéb szolgáltatások költsége",
+        "Egyéb ráfordítás",
+        "Igénybe vett szolgáltatások értéke",
+        "Pénzügyi műveletek ráfordításas"
+      ],
+      "helyes_valasz": [1]
+    },
+    {
+      "kerdes": "Egészítse ki a mondatot úgy, hogy az állítás igaz legyen! A költségvetéssel, önkormányzatokkal szembeni kötelezettségek állománybavétele … alapján történik az abban kiszámított, meghatározott összegnek megfelelően.",
+      "valaszlehetosegek": [
+        "számla",
+        "nyugta",
+        "bevallás, kivetés",
+        "bankszámlakivonat"
+      ],
+      "helyes_valasz": [2]
+    },
+    {
+      "kerdes": "Egészítse ki a mondatot úgy, hogy az állítás igaz legyen! A helyi önkormányzatnak fizetendő gépjármű, telek, építmény, iparűzési adót … -ként kell elszámolni.",
+      "valaszlehetosegek": [
+        "Egyéb szolgáltatások költsége",
+        "Egyéb ráfordítás",
+        "Pénzügyi műveletek ráfordítása",
+        "Igénybe vett szolgáltatások értéke"
+      ],
+      "helyes_valasz": [1]
+    }
+  ]
+}
