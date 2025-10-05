@@ -1,0 +1,341 @@
+
+    {"kerdesek":
+    [
+  {
+    "kerdes": "Mi az üzleti informatika fő feladata?",
+    "valaszlehetosegek": [
+      "Az ICT-rendszerek megtervezése és megvalósítása vállalatok és szervezetek számára",
+      "Csak a hardver fejlesztése",
+      "Csak szoftverértékesítés",
+      "A közgazdasági elméletek vizsgálata"
+    ],
+    "helyes_valasz": [0]
+  },
+  {
+    "kerdes": "Mely állítás igaz a bitre és a byte-ra?",
+    "valaszlehetosegek": [
+      "Egy byte 8 bitből áll, 256 különböző karaktert kódolhat",
+      "Egy bit 8 byte-ot alkot",
+      "A byte csak analóg adatokat tárol",
+      "Egy bit a legkisebb információegység, értéke 0 vagy 1 lehet"
+    ],
+    "helyes_valasz": [0, 3]
+  },
+  {
+    "kerdes": "Melyek egy ICT-rendszer fő összetevői?",
+    "valaszlehetosegek": [
+      "Feladatok (menedzsment, elemzés, operatív)",
+      "Felhasználók (emberek)",
+      "Technológia (hardver és szoftver)",
+      "Természeti erőforrások"
+    ],
+    "helyes_valasz": [0, 1, 2]
+  },
+  {
+    "kerdes": "Egy bájt hány bit?",
+    "valaszlehetosegek": ["8", "10", "1024", "1000"],
+    "helyes_valasz": [0]
+  },
+  {
+    "kerdes": "Melyek az IT használatának kockázatai?",
+    "valaszlehetosegek": [
+      "Magas költségek a nem megfelelő hardver vagy szoftver miatt",
+      "Technológiai függőség és rugalmatlanság",
+      "A munkafolyamatok átláthatatlansága a túlzott automatizálás miatt",
+      "Adatvédelem sérülése és jogosulatlan hozzáférés",
+      "Teljesen kockázatmentes működés"
+    ],
+    "helyes_valasz": [0, 1, 2, 3]
+  },
+  {
+    "kerdes": "Melyik Excel bővítmény teszi lehetővé adatmodellek építését és táblák összekapcsolását nagy adatkészletek kezeléséhez egyetlen munkafüzeten belül?",
+    "valaszlehetosegek": ["Power Pivot", "PowerPoint", "Kimutatásdiagram", "Gyorsanalízis"],
+    "helyes_valasz": [0]
+  },
+  {
+    "kerdes": "Melyik PowerPoint eszköz teszi lehetővé, hogy színeket vegyen fel képekből vagy objektumokból, ezzel egységes színösszhangot teremtve a diákon?",
+    "valaszlehetosegek": ["Színpipetta eszköz", "Morph átmenet", "SmartArt grafika", "Hiperhivatkozás navigáció"],
+    "helyes_valasz": [0]
+  },
+  {
+    "kerdes": "Mi a Microsoft Word körlevél funkciójának elsődleges célja?",
+    "valaszlehetosegek": [
+      "Személyre szabott formalevelek vagy címkék létrehozása a fő dokumentum és egy adatforrás összekapcsolásával",
+      "A dokumentum közös szerkesztése változások követésével",
+      "Kereszthivatkozások automatikus beszúrása",
+      "A dokumentum PDF-fé konvertálása"
+    ],
+    "helyes_valasz": [0]
+  },
+  {
+    "kerdes": "Excelben melyik eszköz teszi lehetővé, hogy megadott feltételek alapján automatikusan módosítsa a cellaformázást (például kiemelje a negatív számokat)?",
+    "valaszlehetosegek": ["Szűrők", "Feltételes formázás", "Adatérvényesítés", "Kimutatás (Pivot tábla)"],
+    "helyes_valasz": [1]
+  },
+  {
+    "kerdes": "Melyik PowerPoint funkció ad azonnali elrendezési javaslatokat a tartalom alapján, így gyorsan készíthet professzionális megjelenésű diákat?",
+    "valaszlehetosegek": ["Tervező funkció", "Előadó-edző", "Diagrandítás", "Színpipetta eszköz"],
+    "helyes_valasz": [0]
+  },
+  {
+    "kerdes": "Melyik PowerPoint-átmenet animálja zökkenőmentesen az objektumokat egyik diáról a másikra, dinamikus történetmesélő hatást keltve?",
+    "valaszlehetosegek": ["Eltűnés átmenet", "Morph átmenet", "Nagyítás átmenet", "Törlés átmenet"],
+    "helyes_valasz": [1]
+  },
+  {
+    "kerdes": "Melyik Excel funkció vonja ki a releváns információkat a nagy táblákból, és foglalja össze őket egy tömör táblába?",
+    "valaszlehetosegek": ["Kimutatás (Pivot tábla)", "Feltételes formázás", "DARABTELI", "Adatérvényesítés"],
+    "helyes_valasz": [0]
+  },
+  {
+    "kerdes": "Melyik Excel függvény-kombináció kínál dinamikus alternatívát a FKERES (VLOOKUP) helyett azzal, hogy külön kereső és visszakereső függvényeket használ?",
+    "valaszlehetosegek": ["INDEX és MATCH", "DARABTELI", "HAHIBA", "ELTOL"],
+    "helyes_valasz": [0]
+  },
+  {
+    "kerdes": "Az alábbiak közül melyik nem része a Word körlevélkészítései folyamatának fő lépéseihez?",
+    "valaszlehetosegek": [
+      "A dokumentum exportálása PowerPoint prezentációként",
+      "A fő dokumentum létrehozása",
+      "A dokumentum csatlakoztatása adatforráshoz",
+      "A címzettek listájának finomítása"
+    ],
+    "helyes_valasz": [0]
+  },
+  {
+    "kerdes": "Melyik szoftveróriás nem amerika?",
+    "valaszlehetosegek": ["Oracle", "SAP", "Microsoft", "IBM"],
+    "helyes_valasz": [1]
+  },
+  {
+    "kerdes": "Melyik nem része a von Neumann-architektúrának?",
+    "valaszlehetosegek": ["Bemeneti/kimeneti eszközök", "Központi feldolgozó egység", "Hangkártya", "Memória"],
+    "helyes_valasz": [2]
+  },
+  {
+    "kerdes": "Hogyan és mikor alakult ki az internet?",
+    "valaszlehetosegek": ["WWW, 1990", "ARPANET, 1969", "MAIL, 1987", "TCP/IP, 1998"],
+    "helyes_valasz": [1]
+  },
+  {
+    "kerdes": "Kinek a nevéhez fűződik a lyukkártyás adatfeldolgozás?",
+    "valaszlehetosegek": ["Bill Gates", "Herman Hollerith", "Steve Jobs", "Larry Ellison"],
+    "helyes_valasz": [1]
+  },
+  {
+    "kerdes": "Miért biztonságosabb a HTTPS (443-as port), mint a HTTP (80-as port)?",
+    "valaszlehetosegek": [
+      "A HTTPS TLS titkosítást használ nyilvános/privát kulcsokkal, így védi az adatokat a lehallgatástól",
+      "A HTTPS kevesebb csomagot használ, mint a http",
+      "A HTTPS-hez nincs szükség szerverre",
+      "A HTTP alapértelmezetten biztonságos protokoll"
+    ],
+    "helyes_valasz": [0]
+  },
+  {
+    "kerdes": "Mi a Network Address Translation (NAT) alapvető célja?",
+    "valaszlehetosegek": [
+      "Lehetővé teszi, hogy több eszköz egy privát hálózaton megosszon egyetlen nyilvános IP-címet",
+      "Adatok titkosítását végzi",
+      "Tömöríti a hálózati forgalmat a sávszélesség megtakarítására",
+      "Egyedi MAC címet rendel minden eszközhöz"
+    ],
+    "helyes_valasz": [0]
+  },
+  {
+    "kerdes": "Miben különbözik a Port Address Translation (PAT) a hagyományos NAT-tól?",
+    "valaszlehetosegek": [
+      "A PAT csak IPv6 hálózatokban használható",
+      "A PAT a portszámokat is használja, így több eszköz oszthat meg egyetlen nyilvános IP-címet",
+      "A PAT titkosítja a forgalmat, míg a NAT nem",
+      "A PAT minden eszközhöz külön nyilvános IP-t igényel"
+    ],
+    "helyes_valasz": [1]
+  },
+  {
+    "kerdes": "Melyik az a decimális, tízes számrendszerű szám, melynek bináris alakja a következő: 1010101010?",
+    "valaszlehetosegek": ["1023", "887", "682", "2169"],
+    "helyes_valasz": [2]
+  },
+  {
+    "kerdes": "Melyik állítás írja le legjobban az Infrastructure-as-a-Service (IaaS) és a helyszíni üzemeltetés közötti különbséget?",
+    "valaszlehetosegek": [
+      "Az IaaS teljes kontrolt ad a hardver felett; a helyszíni nem",
+      "Az IaaS szolgáltató igény szerinti erőforrásokat nyújt, így nem kell hardvert birtokolni; a helyszíni működtetésnél a hardver beszerzése és karbantartása is a szervezet feladata",
+      "Az IaaS drágább és kevésbé skálázható, mint a helyszíni megoldás",
+      "A helyszíni megoldást csak kisvállalatok használhatják"
+    ],
+    "helyes_valasz": [1]
+  },
+  {
+    "kerdes": "Mikor jelentek meg az első PC-k és honnan származik a nevük?",
+    "valaszlehetosegek": [
+      "1976-tól az APPLE-től",
+      "1981-től az IBM-től",
+      "1982-től a COMMODRE-tól",
+      "1975-től a MICROSOFT-tól"
+    ],
+    "helyes_valasz": [1]
+  },
+  {
+    "kerdes": "Mi teszi biztonságosabbá a WPA3-at a WPA2-vel szemben?",
+    "valaszlehetosegek": [
+      "A WPA3 a Simultaneous Authentication of Equals hitelesítést és előremenő titkosságot használ, így nehezebb a jelszó feltörése",
+      "A WPA3 teljesen feleslegessé teszi a Wi-Fi jelszavakat",
+      "A WPA3 gyorsabb, de kevésbé biztonságos, mint a WPA2",
+      "A WPA3 csak 2,4 GHz-es hálózatokon működik"
+    ],
+    "helyes_valasz": [0]
+  },
+  {
+    "kerdes": "Otthoni internet előfizetésemmel átlagosan 700 Mbps sebességgel tudok adatokat letölteni. Egy 4 GB nagyságú filmet mennyi idő alatt tudok ezen sebességgel letölteni (egész számra kerekítve másodpercben megadva)?",
+    "valaszlehetosegek": ["210", "102", "47", "338"],
+    "helyes_valasz": [2]
+  },
+  {
+    "kerdes": "Sorolj fel új, aktuális informatikai trendeket!",
+    "valaszlehetosegek": ["USB", "Big Data", "IoT", "AI"],
+    "helyes_valasz": [1, 2, 3]
+  },
+  {
+    "kerdes": "Minden Google fiókhoz 15 GB ingyen tárhely jár. Prémium csomagot megvásárolva ez 2 TB-ra növekszik. Hányszorosára nő a tárhely mérete így (egészre kerekítve)?",
+    "valaszlehetosegek": ["319", "448", "135", "251"],
+    "helyes_valasz": [2]
+  },
+  {
+    "kerdes": "Mi a fő funkcionális különbség a ping és a traceroute segédprogramok között?",
+    "valaszlehetosegek": [
+      "A ping a kapcsolat elérhetőségét és a kör-utazási időt méri, míg a traceroute feltérképezi az útvonalat és az egyes ugrások késleltetését",
+      "A ping titkosítja a forgalmat, a traceroute nem",
+      "A traceroute fájlátvitelre szolgál",
+      "A ping csak vezeték nélküli hálózatokon használható"
+    ],
+    "helyes_valasz": [0]
+  },
+  {
+    "kerdes": "Mi különbözteti meg a CoAP-ot az MQTT-től IoT-kommunikációs protokollként?",
+    "valaszlehetosegek": [
+      "A CoAP nagyobb sávszélességet használ, mint az MQTT",
+      "A CoAP UDP-t használ és REST-alapú kérés-válasz modell, míg az MQTT TCP-t és publish/subscribe modellt használ",
+      "Az MQTT-t csak multimédia streamingre használják",
+      "A CoAP-hoz minden kommunikációhoz központi broker szükséges"
+    ],
+    "helyes_valasz": [1]
+  },
+  {
+    "kerdes": "Mi a fő különbség az IPv4 és IPv6 címzés között?",
+    "valaszlehetosegek": [
+      "Az IPv6 lassabb, mert több réteget használ",
+      "Az IPv4-et csak helyi hálózatokban használják",
+      "Az IPv6 128 bites címeket használ, így sokkal nagyobb címteret biztosít, mint a 32 bites IPv4",
+      "Az IPv6 címek rövidebbek az IPv4 címeknél"
+    ],
+    "helyes_valasz": [2]
+  },
+  {
+    "kerdes": "Melyik Excel funkcióval rögzíthet egy műveletsorozatot, amelyet később automatikusan megismételhet, így időt takarít meg az ismétlődő feladatoknál?",
+    "valaszlehetosegek": ["Power Query", "Villámkitöltés", "SZUMHA", "Makrók"],
+    "helyes_valasz": [3]
+  },
+  {
+    "kerdes": "Mit értünk digitális adat alatt?",
+    "valaszlehetosegek": [
+      "Bináris formában tárolt és feldolgozott adatot",
+      "Csak papír alapú nyilvántartást",
+      "Verbális kommunikációt",
+      "Analóg jelekben tárolt információt"
+    ],
+    "helyes_valasz": [0]
+  },
+  {
+    "kerdes": "Melyek az IT használatának előnyei egy vállalatnál?",
+    "valaszlehetosegek": [
+      "Az emberi erőforrások teljes kiváltása",
+      "Tömeges adatelemzés hatékonyabban",
+      "Szállítási idők csökkentése egy online rendelési rendszerrel",
+      "Gyorsabb döntéshozatal és hatékonyabb termelési tervezés"
+    ],
+    "helyes_valasz": [1, 2, 3]
+  },
+  {
+    "kerdes": "Mi tartozik az információfeldolgozás lépései közé?",
+    "valaszlehetosegek": [
+      "Adatok tárolása és továbbítása",
+      "Grafikus megjelenítés (nyomtatás vagy képernyő)",
+      "Egy termék legyártása",
+      "Információk lekérdezése és feldolgozása"
+    ],
+    "helyes_valasz": [0, 1, 3]
+  },
+  {
+    "kerdes": "Melyik memória típus felejt (elveszíti az adatokat) áramszünetkor?",
+    "valaszlehetosegek": ["Merevlemez", "RAM", "ROM", "SSD"],
+    "helyes_valasz": [1]
+  },
+  {
+    "kerdes": "Melyik réteg tartozik a TCP/IP modellhez, de nem része az OSI modellnek?",
+    "valaszlehetosegek": [
+      "Fizikai (Physical)",
+      "Viszony (Session)",
+      "Internet",
+      "Megjelenítési (Presentation)"
+    ],
+    "helyes_valasz": [2]
+  },
+  {
+    "kerdes": "Állítás A: Az IPv4 címek száma véges. Állítás B: Az IPv6 címek száma gyakorlatilag kimeríthetetlen. Mi a helyes reláció?",
+    "valaszlehetosegek": [
+      "Mindkettő igaz, és B indokolja az IPv6 bevezetését",
+      "Csak B igaz",
+      "Mindkettő hamis",
+      "Csak A igaz"
+    ],
+    "helyes_valasz": [0]
+  },
+  {
+    "kerdes": "Állítás A: A bájt 8 bitből áll. Állítás B: A bájt mindig 256 különböző értéket tud tárolni. Mi a helyes reláció?",
+    "valaszlehetosegek": [
+      "A és B ekvivalensek",
+      "Csak B igaz",
+      "Mindkettő hamis",
+      "Csak A igaz"
+    ],
+    "helyes_valasz": [0]
+  },
+  {
+    "kerdes": "Állítás A: A RAM tartalma áramszünetkor elveszik. Állítás B: A ROM tartalma áramszünet után is megmarad. Mi a helyes reláció?",
+    "valaszlehetosegek": [
+      "Csak B igaz",
+      "Mindkettő hamis",
+      "Mindkettő igaz, és A nem következik B-ből",
+      "Csak A igaz"
+    ],
+    "helyes_valasz": [2]
+  },
+  {
+    "kerdes": "Melyik számítógép-architektúra írja le a CPU, a memória és a bemenet/kimenet központi felépítését?",
+    "valaszlehetosegek": ["Neumann-architektúra"],
+    "helyes_valasz": [0]
+  },
+  {
+    "kerdes": "Mit jelent az ICT rövidítés?",
+    "valaszlehetosegek": ["Information and Communication Technology (Információs és Kommunikációs Technológia)"],
+    "helyes_valasz": [0]
+  },
+  {
+    "kerdes": "Egy fájl mérete 50 MB, a hálózati átviteli sebesség 10 MB/s. Hány másodperc alatt továbbítható a fájl?",
+    "valaszlehetosegek": ["5 másodperc"],
+    "helyes_valasz": [0]
+  },
+  {
+    "kerdes": "Egy processzor másodpercenként 2 milliárd utasítást hajt végre (2 GHz). Hány utasítást hajt végre 3 másodperc alatt?",
+    "valaszlehetosegek": ["6 milliárd utasítás"],
+    "helyes_valasz": [0]
+  },
+  {
+    "kerdes": "Alakítsd át a 75 tízes számrendszerbeli számot binárissá!",
+    "valaszlehetosegek": ["1001011"],
+    "helyes_valasz": [0]
+  }
+]
+}
